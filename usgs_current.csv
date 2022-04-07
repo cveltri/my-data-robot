@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T19:56:07.220Z,33.9065018,-117.5189972,14.4,1.66,ml,53,41,0.04654,0.16,ci,ci39988263,2022-04-07T19:58:25.473Z,"3km N of Home Gardens, CA",earthquake,0.26,0.49,0.241,18,automatic,ci,ci
 2022-04-07T19:28:56.740Z,19.1938323974609,-155.390670776367,30.2600002288818,1.76,ml,41,162,,0.119999997,hv,hv72976582,2022-04-07T19:34:27.300Z,"9 km E of Pāhala, Hawaii",earthquake,0.48,0.910000026,0.34,3,automatic,hv,hv
 2022-04-07T19:26:11.110Z,32.9263333,-116.2295,9.64,1.08,ml,24,104,0.06822,0.12,ci,ci39988239,2022-04-07T19:37:11.323Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.22,0.43,0.15,12,reviewed,ci,ci
 2022-04-07T19:19:31.910Z,38.8373337,-122.8113327,1.88,0.85,md,8,106,0.01395,0.01,nc,nc73715631,2022-04-07T19:36:16.741Z,"8km WNW of Cobb, CA",earthquake,0.54,1.1,,1,automatic,nc,nc
@@ -71,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T12:59:50.321Z,51.8506,178.5888,108,2.2,ml,,,,0.25,ak,ak0224gmmmib,2022-04-07T15:50:49.866Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2022-04-07T12:56:06.540Z,44.2775,-115.1638333,5.9,1.69,ml,9,85,0.897,0.21,mb,mb80542484,2022-04-07T15:24:32.420Z,"19 km WNW of Stanley, Idaho",earthquake,0.6,1.39,0.3,8,reviewed,mb,mb
 2022-04-07T12:31:38.887Z,61.9257,-150.8457,70.2,1.1,ml,,,,0.48,ak,ak0224gmglct,2022-04-07T12:34:22.183Z,"29 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-04-07T12:11:13.490Z,38.7896667,-122.7665,0.84,0.43,md,10,166,0.01216,0.03,nc,nc71127714,2022-04-07T19:53:17.889Z,"2km NNW of The Geysers, CA",earthquake,0.44,0.69,0.491,2,reviewed,nc,nc
 2022-04-07T11:54:09.500Z,19.1569995880127,-155.467834472656,29.7099990844727,1.88,md,36,121,,0.170000002,hv,hv72976172,2022-04-07T11:57:33.260Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.78,1.12,0.819999993,12,automatic,hv,hv
 2022-04-07T11:51:22.280Z,45.6995,-112.1048333,5.9,0.52,ml,7,112,0.211,0.23,mb,mb80542519,2022-04-07T16:43:04.730Z,"17 km WNW of Pony, Montana",earthquake,0.84,12.99,0.183,3,reviewed,mb,mb
 2022-04-07T11:50:41.171Z,60.0363,-151.7523,72.7,1.9,ml,,,,0.5,ak,ak0224glz8hr,2022-04-07T11:59:28.288Z,"4 km WSW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
