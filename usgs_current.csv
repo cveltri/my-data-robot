@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-08T17:45:06.380Z,35.7758331,-117.5708313,7.6,0.97,ml,11,153,0.04534,0.11,ci,ci39988823,2022-04-08T17:47:13.034Z,"15km W of Searles Valley, CA",earthquake,0.77,1.18,0.161,4,automatic,ci,ci
+2022-04-08T17:45:06.250Z,35.772,-117.564,8.07,0.8,ml,10,165,0.05145,0.08,ci,ci39988823,2022-04-08T17:48:43.039Z,"14km W of Searles Valley, CA",earthquake,0.47,0.53,0.17,7,automatic,ci,ci
 2022-04-08T17:35:02.518Z,38.177,-117.884,11.4,1,ml,8,175.68,0.07,0.0802,nn,nn00836935,2022-04-08T17:39:00.875Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.44,4,automatic,nn,nn
 2022-04-08T17:23:38.410Z,38.7845001,-122.7751694,-0.18,0.8,md,13,86,0.0132,0.05,nc,nc73716026,2022-04-08T17:25:12.186Z,"2km WNW of The Geysers, CA",earthquake,0.24,0.7,0.13,4,automatic,nc,nc
 2022-04-08T17:19:18.320Z,33.82,-117.4855,2.06,1.41,ml,38,32,0.03381,0.3,ci,ci39988783,2022-04-08T17:22:53.894Z,"7km SSE of Home Gardens, CA",quarry blast,0.41,0.6,0.219,35,automatic,ci,ci
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T07:20:45.010Z,19.1744995117188,-155.479827880859,34.5,1.99000001,md,35,152,,0.119999997,hv,hv72977562,2022-04-08T07:23:55.230Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.879999995,0.949999988,7,automatic,hv,hv
 2022-04-08T06:34:13.224Z,31.6647967,-104.5396114,7.494091797,2.7,ml,21,89,0.03333277593,0.2,tx,tx2022gvsu,2022-04-08T14:56:26.556Z,"58 km SSW of Whites City, New Mexico",earthquake,1.897087758,1.188388976,0.1,13,reviewed,tx,tx
 2022-04-08T06:33:34.750Z,38.7758333,-122.8771667,2.21,0.74,md,30,198,0.02499,0.05,nc,nc73715856,2022-04-08T17:00:33.151Z,"10km W of The Geysers, CA",earthquake,0.28,0.38,0.069,5,reviewed,nc,nc
-2022-04-08T06:28:22.030Z,33.1911667,-115.9935,6.83,1.24,ml,28,66,0.02203,0.25,ci,ci39988455,2022-04-08T06:31:55.459Z,"12km SSW of Salton City, CA",earthquake,0.41,0.88,0.18,27,automatic,ci,ci
+2022-04-08T06:28:21.870Z,33.1923333,-115.9998333,7.94,1.21,ml,36,61,0.02639,0.15,ci,ci39988455,2022-04-08T17:51:49.062Z,"12km SSW of Salton City, CA",earthquake,0.21,0.46,0.174,24,reviewed,ci,ci
 2022-04-08T06:20:01.110Z,36.6195,-119.2476667,23.71,2.35,md,34,65,0.1907,0.15,nc,nc73715851,2022-04-08T13:49:17.394Z,"6km E of Orange Cove, CA",earthquake,0.25,0.39,0.182,39,reviewed,nc,nc
 2022-04-08T06:13:08.419Z,31.62554644,-104.203458,7.082763671999999,2.2,ml,13,67,0.06980699403,0.2,tx,tx2022gvsa,2022-04-08T08:19:32.745Z,"52 km NW of Toyah, Texas",earthquake,1.366019763,1.691657493,0.2,9,reviewed,tx,tx
 2022-04-08T06:05:55.032Z,31.57850085,-104.0288972,7.288427734,2,ml,15,90,0.09336684053,0.2,tx,tx2022gvrw,2022-04-08T09:27:49.816Z,"36 km NW of Toyah, Texas",earthquake,1.246104968,1.6159979010000003,0.2,13,reviewed,tx,tx
@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T17:57:53.990Z,38.8,-122.7485,2.11,0.05,md,11,141,0.008783,0.04,nc,nc71127719,2022-04-08T06:50:43.946Z,"3km NNE of The Geysers, CA",earthquake,0.42,0.53,0.155,3,reviewed,nc,nc
 2022-04-07T17:57:00.840Z,39.6196667,-123.3736667,8.66,1.73,md,19,84,0.04414,0.14,nc,nc73715601,2022-04-08T07:16:17.052Z,"12km SE of Laytonville, CA",earthquake,0.4,0.75,0.138,18,reviewed,nc,nc
 2022-04-07T17:56:18.532Z,59.7345,-152.1086,69.5,1.4,ml,,,,0.3,ak,ak0224gpl2pp,2022-04-07T17:58:28.331Z,"16 km WSW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-07T17:48:15.520Z,52.1303333333333,-175.5375,12.79,0.82,ml,6,335,,0.07,av,av91054083,2022-04-08T06:07:10.970Z,"80 km ENE of Adak, Alaska",earthquake,1.11,1.32,0.229314852114556,7,reviewed,av,av
