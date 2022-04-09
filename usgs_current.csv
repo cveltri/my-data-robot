@@ -2,9 +2,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T14:36:16.930Z,35.7826667,-117.6073333,7.38,0.96,ml,13,85,0.03395,0.14,ci,ci39989375,2022-04-09T14:39:56.609Z,"18km W of Searles Valley, CA",earthquake,0.34,0.61,0.149,8,automatic,ci,ci
 2022-04-09T14:22:43.140Z,35.6371667,-117.4255,2.61,2.04,ml,26,99,0.05874,0.14,ci,ci39989367,2022-04-09T14:33:12.540Z,"15km S of Searles Valley, CA",earthquake,0.26,0.48,0.135,25,automatic,ci,ci
 2022-04-09T14:13:02.518Z,63.4858,-148.2709,5.3,1.2,ml,,,,0.74,ak,ak0224jym7ux,2022-04-09T14:22:19.704Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-09T14:02:15.891Z,38.12,38.7038,10,5.3,mww,,77,1.013,0.88,us,us7000h0wh,2022-04-09T14:46:46.389Z,"12 km NE of Sincik, Turkey",earthquake,4.3,1.9,0.068,21,reviewed,us,us
+2022-04-09T14:02:15.891Z,38.12,38.7038,10,5.3,mww,,77,1.013,0.88,us,us7000h0wh,2022-04-09T14:56:46.778Z,"12 km NE of Sincik, Turkey",earthquake,4.3,1.9,0.068,21,reviewed,us,us
 2022-04-09T13:53:53.418Z,39.8634,-118.0294,9.2,1.7,ml,9,258.01,0.074,0.3911,nn,nn00836979,2022-04-09T13:57:48.011Z,"51 km SE of Lovelock, Nevada",earthquake,,0.6,0.28,5,automatic,nn,nn
-2022-04-09T13:48:26.940Z,38.8311653,-122.8170013,1.69,0.87,md,22,51,0.009459,0.01,nc,nc73716276,2022-04-09T14:06:13.206Z,"8km NW of The Geysers, CA",earthquake,0.2,0.43,0.3,4,automatic,nc,nc
+2022-04-09T13:48:26.940Z,38.8311653,-122.8170013,1.69,0.87,md,22,51,0.009459,0.01,nc,nc73716276,2022-04-09T14:54:12.505Z,"8km NW of The Geysers, CA",earthquake,0.2,0.43,0.3,4,automatic,nc,nc
 2022-04-09T13:29:29.620Z,33.2313333,-116.0188333,0.25,0.65,ml,8,220,0.5081,0.17,ci,ci39989343,2022-04-09T13:33:10.524Z,"10km SW of Salton City, CA",earthquake,1.91,31.61,0.044,2,automatic,ci,ci
 2022-04-09T13:22:32.230Z,38.8333321,-122.8176651,1.99,1.16,md,14,69,0.01156,0.01,nc,nc73716266,2022-04-09T14:02:13.181Z,"8km NW of The Geysers, CA",earthquake,0.24,0.92,0.34,2,automatic,nc,nc
 2022-04-09T13:14:38.600Z,35.3705,-118.4766667,7.07,2.37,ml,46,26,0.09128,0.19,ci,ci39989335,2022-04-09T13:25:31.390Z,"24km S of Bodfish, CA",earthquake,0.22,1,0.283,26,automatic,ci,ci
