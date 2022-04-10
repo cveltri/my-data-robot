@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T13:14:38.600Z,35.3705,-118.4766667,7.07,2.37,ml,46,26,0.09128,0.19,ci,ci39989335,2022-04-09T13:25:31.390Z,"24km S of Bodfish, CA",earthquake,0.22,1,0.283,26,automatic,ci,ci
 2022-04-09T13:10:27.932Z,63.2457,-151.7293,0.9,1.4,ml,,,,1.5,ak,ak0224jy074m,2022-04-09T13:21:31.933Z,"32 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-09T13:04:48.530Z,18.7418,-68.095,38,3.52,md,20,161,0.366,0.68,pr,pr2022099001,2022-04-09T15:20:18.350Z,"37 km ENE of Punta Cana, Dominican Republic",earthquake,4.01,6.1,0.15,7,reviewed,pr,pr
-2022-04-09T12:56:35.174Z,63.2899,-151.3081,15.9,0.8,ml,,,,0.37,ak,ak0224jxomyl,2022-04-09T12:58:50.726Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-09T12:49:18.920Z,37.403,-118.604,0.06,1.27,md,16,89,0.2234,0.09,nc,nc73716256,2022-04-10T01:15:14.503Z,"1km SSW of Round Valley, CA",earthquake,0.34,1.15,0.162,14,reviewed,nc,nc
