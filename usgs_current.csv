@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-10T15:56:10.052Z,57.9449,-156.7053,1.1,1.5,ml,,,,0.63,ak,ak0224ln08bx,2022-04-10T15:58:19.946Z,"49 km SE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-10T15:33:11.570Z,62.4529,-148.2666,35.1,2.7,ml,,,,0.64,ak,ak0224lmvay0,2022-04-10T15:47:47.040Z,"73 km N of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-10T15:32:25.210Z,60.7603,-143.8091,25.1,1.1,ml,,,,1.71,ak,ak0224lmv4db,2022-04-10T15:44:39.577Z,"88 km SSW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-10T15:09:40.657Z,61.13,-148.333,11.6,2,ml,,,,0.86,ak,ak0224lmq815,2022-04-10T15:34:34.355Z,"43 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T16:16:01.170Z,38.8325005,-122.8026657,1.51,0.85,md,8,102,0.01078,0.01,nc,nc73716321,2022-04-09T17:36:12.620Z,"7km W of Cobb, CA",earthquake,0.38,1.12,,1,automatic,nc,nc
 2022-04-09T16:14:30.050Z,38.800499,-122.7743301,1.41,0.55,md,17,73,0.01142,0.02,nc,nc73716316,2022-04-09T17:09:13.326Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.43,0.35,4,automatic,nc,nc
 2022-04-09T16:13:22.524Z,-0.0447,122.0381,270.65,4.2,mb,,108,1.232,0.71,us,us7000h0x5,2022-04-09T18:54:46.040Z,"130 km NW of Luwuk, Indonesia",earthquake,11.4,8.3,0.137,16,reviewed,us,us
-2022-04-09T15:59:28.659Z,63.871,-148.7646,10,0.5,ml,,,,0.48,ak,ak0224jzhjut,2022-04-09T16:09:23.374Z,"10 km E of Healy, Alaska",earthquake,,1.7,,,reviewed,ak,ak
