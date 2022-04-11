@@ -199,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T16:19:36.011Z,61.5994,-151.9997,25,0.8,ml,,,,1.11,ak,ak0224lndsg1,2022-04-10T16:26:13.217Z,"53 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-10T16:05:20.814Z,62.4234,-151.2982,79.5,1.4,ml,,,,0.5,ak,ak0224lnar8x,2022-04-10T16:07:14.342Z,"28 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-10T15:56:10.052Z,57.9449,-156.7053,1.1,1.5,ml,,,,0.63,ak,ak0224ln08bx,2022-04-10T16:07:15.102Z,"49 km SE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-10T15:49:51.190Z,34.7971667,-120.9676667,13,2.93,ml,14,243,0.3032,0.23,nc,nc73716621,2022-04-11T11:17:17.662Z,"41km WSW of Guadalupe, CA",earthquake,1.93,4.83,0.109,25,reviewed,nc,nc
-2022-04-10T15:49:44.930Z,38.2131,38.7501,10,4,mb,,85,0.936,0.26,us,us7000h143,2022-04-10T16:17:44.040Z,"23 km NNE of Sincik, Turkey",earthquake,4.5,2,0.258,4,reviewed,us,us
