@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-11T05:33:05.612Z,61.8115,-148.4588,17.3,0.9,ml,,,,0.55,ak,ak0224n4gayc,2022-04-11T05:35:22.056Z,"1 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-11T05:20:19.660Z,17.9851666666667,-66.8926666666667,10.72,1.83,md,5,137,,0.1,pr,pr71344173,2022-04-11T05:41:37.780Z,"0 km NNW of Maria Antonia, Puerto Rico",earthquake,0.75,0.61,0.250969887602529,4,reviewed,pr,pr
 2022-04-11T05:12:09.609Z,60.7133,-147.5468,0,1.9,ml,,,,0.72,ak,ak0224n4btaa,2022-04-11T05:24:37.034Z,"50 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-11T05:11:46.155Z,57.289,-153.5502,28.2,3.3,ml,,,,0.58,ak,ak0224n4bocm,2022-04-11T05:23:42.183Z,"17 km WNW of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-11T04:58:14.230Z,61.4348,-147.4622,18,1.7,ml,,,,0.66,ak,ak0224n408x0,2022-04-11T05:13:59.924Z,"42 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
