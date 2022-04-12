@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T21:06:36.510Z,19.1976661682129,-155.371170043945,33.0800018310547,1.84000003,md,36,165,,0.159999996,hv,hv72982002,2022-04-12T21:10:12.250Z,"11 km E of Pāhala, Hawaii",earthquake,0.85,1.15999997,1.84000003,8,automatic,hv,hv
 2022-04-12T20:56:42.810Z,38.8125,-122.8268356,1.81,0.74,md,16,57,0.004062,0.02,nc,nc73717561,2022-04-12T21:13:12.002Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.52,0.11,2,automatic,nc,nc
 2022-04-12T20:44:10.960Z,35.7061667,-117.505,4.95,0.82,ml,14,102,0.1327,0.1,ci,ci39990951,2022-04-12T21:14:36.035Z,"11km SW of Searles Valley, CA",earthquake,0.22,0.57,0.126,6,reviewed,ci,ci
-2022-04-12T20:41:59.640Z,36.4501667,-120.4608333,17.8,2.34,md,42,85,0.1101,0.21,nc,nc73717556,2022-04-12T21:41:30.747Z,"14km WSW of Cantua Creek, CA",earthquake,0.39,0.46,0.215,45,reviewed,nc,nc
+2022-04-12T20:41:59.640Z,36.4501667,-120.4608333,17.8,2.34,md,42,85,0.1101,0.21,nc,nc73717556,2022-04-12T21:45:13.184Z,"14km WSW of Cantua Creek, CA",earthquake,0.39,0.46,0.215,45,reviewed,nc,nc
 2022-04-12T20:40:07.205Z,64.3631,-149.4959,0,1.6,ml,,,,1.05,ak,ak0224p0ynnr,2022-04-12T20:54:51.151Z,"15 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-12T20:39:42.920Z,35.916,-117.7325,5.33,0.77,ml,15,53,0.07386,0.06,ci,ci39990935,2022-04-12T21:09:58.436Z,"16km E of Little Lake, CA",earthquake,0.13,0.51,0.144,6,reviewed,ci,ci
 2022-04-12T20:39:41.970Z,19.2243328094482,-155.410171508789,34.6199989318848,2.15,ml,41,184,,0.140000001,hv,hv72981982,2022-04-12T21:27:49.040Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.65,0.839999974,2.81,10,automatic,hv,hv
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T13:12:13.970Z,36.4856667,-89.5426667,8.69,1.91,md,25,45,0.05323,0.06,nm,nm60382572,2022-04-12T14:57:14.460Z,"7 km ESE of Marston, Missouri",earthquake,0.26,0.6,0.101,19,reviewed,nm,nm
 2022-04-12T13:07:28.877Z,57.6351,-154.6863,31.9,1.9,ml,,,,0.76,ak,ak0224owlle5,2022-04-12T13:19:22.256Z,"15 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-12T13:01:34.230Z,38.8073349,-122.8003311,3.21,1.16,md,7,87,0.003979,0.01,nc,nc73717411,2022-04-12T13:34:12.114Z,"5km NW of The Geysers, CA",earthquake,0.65,2.36,,1,automatic,nc,nc
-2022-04-12T12:57:16.540Z,18.8798332214355,-155.514663696289,33.9900016784668,2.33999991,md,46,263,,0.150000006,hv,hv72981712,2022-04-12T13:00:35.590Z,"21 km SSE of Naalehu, Hawaii",earthquake,0.66,1.03999996,1.86000001,10,automatic,hv,hv
+2022-04-12T12:57:16.470Z,18.882,-155.514833333333,35.63,2.45,md,47,262,,0.13,hv,hv72981712,2022-04-12T21:47:37.880Z,"21 km SSE of Naalehu, Hawaii",earthquake,0.48,0.82,0.165214309139989,21,reviewed,hv,hv
 2022-04-12T12:37:49.210Z,61.5633,-149.8583,42.3,0.9,ml,,,,0.46,ak,ak0224ow6mx5,2022-04-12T12:41:08.547Z,"6 km NE of Big Lake, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-12T12:29:46.161Z,38.0413,-118.6138,9.3,1.4,ml,19,83.73,0.227,0.1311,nn,nn00837043,2022-04-12T16:56:55.828Z,"27 km NNW of Benton, California",earthquake,,1.1,0.28,4,reviewed,nn,nn
 2022-04-12T12:26:52.481Z,51.6262,177.0552,49.18,4.3,mb,,181,0.997,1.24,us,us7000h1gt,2022-04-12T16:35:42.556Z,"297 km ESE of Attu Station, Alaska",earthquake,10.6,11,0.052,103,reviewed,us,us
