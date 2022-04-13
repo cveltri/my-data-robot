@@ -138,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T00:14:33.481Z,62.0274,-150.3851,20,1,ml,,,,0.23,ak,ak0224qcfth0,2022-04-13T00:16:55.824Z,"31 km WSW of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-12T23:52:40.770Z,38.8238335,-122.8008347,2.84,0.84,md,12,64,0.00723,0.02,nc,nc73717601,2022-04-13T00:09:13.953Z,"6km NW of The Geysers, CA",earthquake,0.39,1.05,,1,automatic,nc,nc
 2022-04-12T23:52:24.259Z,62.0528,-147.6501,49,1.4,ml,,,,0.81,ak,ak0224p2tke1,2022-04-13T00:02:54.280Z,"27 km N of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-12T23:41:51.880Z,44.738,-111.0943333,11.2,0.24,md,11,99,0.05881,0.12,uu,uu60491217,2022-04-13T14:40:05.620Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.54,1.2,0.313,6,reviewed,uu,uu
 2022-04-12T23:36:29.978Z,62.136,-151.3348,74.8,2,ml,,,,0.42,ak,ak0224p2q5dk,2022-04-12T23:42:14.550Z,"16 km NNE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-12T23:21:19.388Z,61.1071,-148.2749,0.2,1.4,ml,,,,1.37,ak,ak0224p2mwt7,2022-04-12T23:24:10.737Z,"43 km NNE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-12T23:17:14.150Z,35.679,-117.5481667,8.48,1.11,ml,16,94,0.09729,0.05,ci,ci39991111,2022-04-13T00:28:30.493Z,"13km ENE of Ridgecrest, CA",earthquake,0.16,0.48,0.129,8,reviewed,ci,ci
