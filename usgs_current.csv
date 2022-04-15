@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T05:04:09.830Z,34.0108333,-117.1928333,14.54,0.95,ml,16,101,0.07117,0.23,ci,ci40236992,2022-04-15T05:07:44.842Z,"5km S of Redlands, CA",earthquake,0.44,1.06,0.235,25,automatic,ci,ci
 2022-04-15T04:37:27.749Z,61.3511,-147.9694,245.7,1.5,ml,,,,1.03,ak,ak0224tq15s8,2022-04-15T04:51:41.218Z,"51 km ESE of Knik River, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-04-15T04:36:07.387Z,61.8825,-151.4922,76.2,1.6,ml,,,,0.68,ak,ak0224tq0wm7,2022-04-15T04:47:16.274Z,"12 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-15T04:30:55.980Z,31.9305,-116.8925,14.51,4.55,mw,27,234,0.2038,0.23,ci,ci40236864,2022-04-15T07:29:16.651Z,"20km W of El Sauzal, B.C., MX",earthquake,0.8,1.06,,6,reviewed,ci,ci
+2022-04-15T04:30:55.980Z,31.9305,-116.8925,14.51,4.55,mw,27,234,0.2038,0.23,ci,ci40236864,2022-04-15T07:39:37.108Z,"20km W of El Sauzal, B.C., MX",earthquake,0.8,1.06,,6,reviewed,ci,ci
 2022-04-15T04:25:50.286Z,65.314,-145.6007,13.5,3.3,ml,,,,0.69,ak,ak0224tpyn56,2022-04-15T05:16:22.040Z,"46 km SW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-15T04:23:36.320Z,38.8416672,-122.8251648,1.42,0.86,md,10,115,0.008627,0.02,nc,nc73717715,2022-04-15T04:49:53.475Z,"9km WNW of Cobb, CA",earthquake,0.42,0.77,,1,automatic,nc,nc
 2022-04-15T04:18:19.620Z,33.587,-116.8065,7.4,1.07,ml,43,54,0.03602,0.14,ci,ci40236856,2022-04-15T05:27:59.496Z,"13km WNW of Anza, CA",earthquake,0.17,0.4,0.174,25,automatic,ci,ci
@@ -64,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T00:04:29.694Z,58.0018,-153.5493,31.1,1.5,ml,,,,0.28,ak,ak0224tngd09,2022-04-15T00:21:58.253Z,"38 km W of Aleneva, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2022-04-14T23:55:43.290Z,37.9503333,-122.038,9.15,1.57,md,35,83,0.02233,0.12,nc,nc73717655,2022-04-15T07:19:18.430Z,"2km E of Pleasant Hill, CA",earthquake,0.21,0.27,0.146,23,reviewed,nc,nc
 2022-04-14T23:46:48.303Z,-18.2156,-174.2555,171.92,4.6,mb,,144,7.335,1.21,us,us7000h2dj,2022-04-15T00:29:32.040Z,"56 km NNW of Neiafu, Tonga",earthquake,13.6,9,0.136,16,reviewed,us,us
+2022-04-14T23:43:38.130Z,60.07,-153.136,11.94,-0.26,ml,4,286,,0.24,av,av91538491,2022-04-15T07:36:52.110Z,"62 km ENE of Pedro Bay, Alaska",earthquake,2.76,1.46,0.201695482691706,3,reviewed,av,av
 2022-04-14T23:31:43.350Z,38.8258324,-122.8106689,1.73,1.17,md,13,65,0.01922,0.02,nc,nc73717650,2022-04-15T03:38:22.075Z,"7km NW of The Geysers, CA",earthquake,0.28,1,,1,automatic,nc,nc
 2022-04-14T23:23:31.093Z,59.4062,-152.5506,81.7,1.9,ml,,,,0.57,ak,ak0224sdq25x,2022-04-14T23:44:36.040Z,"36 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-14T23:11:30.110Z,33.4945,-116.4811667,13.9,0.37,ml,15,137,0.05458,0.15,ci,ci40236640,2022-04-14T23:52:04.863Z,"19km ESE of Anza, CA",earthquake,0.42,0.72,0.138,7,reviewed,ci,ci
