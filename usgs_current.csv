@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-16T08:46:57.750Z,38.8266678,-122.814003,1.79,0.85,md,8,115,0.004483,0.02,nc,nc73718250,2022-04-16T08:49:41.490Z,"7km NW of The Geysers, CA",earthquake,0.41,0.95,,1,automatic,nc,nc
 2022-04-16T08:38:50.840Z,33.584,-116.814,7.19,0.23,ml,10,167,0.05386,0.17,ci,ci40238088,2022-04-16T08:42:16.289Z,"13km WNW of Anza, CA",earthquake,0.76,0.73,0.094,4,automatic,ci,ci
 2022-04-16T08:38:02.200Z,19.2486667633057,-155.382507324219,31.3700008392334,2.31,ml,48,139,,0.140000001,hv,hv72986542,2022-04-16T08:43:35.010Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.5,22,automatic,hv,hv
 2022-04-16T08:27:40.651Z,38.1332,-117.9861,8.5,1.1,ml,10,153.01,0.022,0.1618,nn,nn00837304,2022-04-16T08:31:21.963Z,"30 km SSE of Mina, Nevada",earthquake,,0.6,0.14,6,automatic,nn,nn
