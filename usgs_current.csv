@@ -298,5 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T10:57:50.440Z,36.7117,-116.2172,1.4,-0.3,ml,7,137.58,0.017,0.1334,nn,nn00837272,2022-04-15T21:55:30.032Z,"51 km WNW of Indian Springs, Nevada",earthquake,,3.6,0.1,4,reviewed,nn,nn
 2022-04-15T10:49:53.050Z,38.8338318,-122.8093338,2.13,0.98,md,17,55,0.01044,0.04,nc,nc73717805,2022-04-15T12:42:12.628Z,"8km W of Cobb, CA",earthquake,0.26,0.6,0.27,2,automatic,nc,nc
 2022-04-15T10:47:59.700Z,38.8180008,-122.8225021,2.95,0.5,md,13,54,0.0111,0.01,nc,nc73717800,2022-04-15T12:16:13.482Z,"7km NW of The Geysers, CA",earthquake,0.27,0.83,0.36,2,automatic,nc,nc
-2022-04-15T10:46:07.017Z,61.3444,-150.085,41,1.5,ml,,,,0.62,ak,ak0224ttnndp,2022-04-15T11:03:55.281Z,"5 km WSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-15T10:44:29.890Z,33.972,-116.8,17.14,0.59,ml,19,209,0.1381,0.11,ci,ci40237104,2022-04-15T19:25:06.202Z,"6km N of Cabazon, CA",earthquake,0.39,0.66,0.12,8,reviewed,ci,ci
