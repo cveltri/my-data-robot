@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-17T22:37:37.310Z,38.8436661,-122.8161697,1.44,0.88,md,22,47,0.01233,0.03,nc,nc73719085,2022-04-17T22:42:28.280Z,"8km WNW of Cobb, CA",earthquake,0.2,0.42,0.02,3,automatic,nc,nc
 2022-04-17T22:23:34.530Z,35.6745,-117.4568333,11.24,1.02,ml,14,172,0.08792,0.2,ci,ci40239256,2022-04-17T22:27:12.453Z,"11km SSW of Searles Valley, CA",earthquake,0.56,0.82,0.132,8,automatic,ci,ci
 2022-04-17T22:16:59.790Z,33.2563333,-116.2358333,6.96,0.69,ml,10,109,0.06527,0.09,ci,ci40239248,2022-04-17T22:20:32.970Z,"13km E of Borrego Springs, CA",earthquake,0.35,0.69,0.163,3,automatic,ci,ci
 2022-04-17T22:03:10.370Z,33.7146667,-116.8131667,14.33,0.77,ml,28,91,0.08259,0.18,ci,ci40239232,2022-04-17T22:06:42.352Z,"8km ESE of Valle Vista, CA",earthquake,0.38,0.58,0.215,21,automatic,ci,ci
