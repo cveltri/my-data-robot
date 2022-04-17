@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:35:33.460Z,38.8361664,-122.8239975,1.17,0.86,md,7,136,0.01562,0.07,nc,nc73718970,2022-04-17T19:13:53.430Z,"9km NW of The Geysers, CA",earthquake,0.75,1.83,,1,automatic,nc,nc
 2022-04-17T17:34:53.350Z,38.8185005,-122.7886658,1.32,0.92,md,20,42,0.00814,0.04,nc,nc73718965,2022-04-17T18:46:53.254Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
 2022-04-17T17:31:04.610Z,59.9635,-151.843,50.1,1.4,ml,,,,0.48,ak,ak0224x8t5os,2022-04-17T17:43:39.281Z,"6 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T21:16:27.110Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
+2022-04-17T17:22:51.960Z,40.4778333,-122.0681667,9.19,1.49,md,8,167,0.07065,0.17,nc,nc73718960,2022-04-17T21:34:53.237Z,"13km SE of Millville, CA",earthquake,0.68,1.53,0.081,8,reviewed,nc,nc
 2022-04-17T17:21:33.362Z,59.7994,-152.3648,97.6,1.1,ml,,,,1,ak,ak0224x8r2r7,2022-04-17T17:35:18.769Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-17T17:17:00.170Z,36.3930016,-119.928833,21.43,2.4,md,18,141,0.1626,0.14,nc,nc73718955,2022-04-17T17:55:52.982Z,"6km S of Lanare, CA",earthquake,1.54,0.55,0.41,9,automatic,nc,nc
 2022-04-17T16:57:30.930Z,34.0598333,-117.2528333,13.85,0.98,ml,39,70,0.1214,0.3,ci,ci40239072,2022-04-17T17:01:02.457Z,"2km NNE of Loma Linda, CA",earthquake,0.44,1.14,0.112,30,automatic,ci,ci
@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T21:51:12.020Z,-29.3055,-176.58,10,4.9,mb,,129,1.171,0.86,us,us7000h2ra,2022-04-16T22:10:50.040Z,"Kermadec Islands region",earthquake,8.3,1.9,0.088,40,reviewed,us,us
 2022-04-16T21:43:15.430Z,38.8106651,-122.8170013,2.79,0.49,md,13,73,0.009681,0.02,nc,nc73718550,2022-04-16T22:06:53.826Z,"6km NW of The Geysers, CA",earthquake,0.34,0.74,0.35,2,automatic,nc,nc
 2022-04-16T21:39:52.674Z,62.9825,-149.3837,62.6,1.5,ml,,,,1.08,ak,ak0224vnpd0p,2022-04-16T21:51:03.925Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-16T21:37:50.120Z,17.8351666666667,-67.0425,28.74,2.75,md,10,291,,0.06,pr,pr71344793,2022-04-16T21:57:17.190Z,"15 km S of La Parguera, Puerto Rico",earthquake,0.87,0.84,0.103466175291883,4,reviewed,pr,pr
