@@ -256,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T23:38:15.690Z,58.3681666666667,-155.694666666667,10.47,0.43,ml,6,227,,0.22,av,av91541521,2022-04-20T05:20:01.130Z,"66 km ESE of King Salmon, Alaska",earthquake,1.5,1.47,0.159107591511029,6,reviewed,av,av
 2022-04-19T23:20:02.830Z,32.9615,-115.5106667,1.11,1.65,ml,10,108,0.07318,0.26,ci,ci40241664,2022-04-19T23:23:47.489Z,"3km SE of Brawley, CA",earthquake,0.61,31.61,0.233,27,automatic,ci,ci
 2022-04-19T23:12:41.380Z,18.0133333333333,-68.4335,68.06,3.41,md,7,220,,0.2,pr,pr71345148,2022-04-19T23:30:38.360Z,"44 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.24,3.77,0.106541904949144,5,reviewed,pr,pr
-2022-04-19T22:55:35.530Z,38.8204994,-122.7630005,2.15,0.75,md,15,120,0.01133,0.02,nc,nc73720430,2022-04-19T23:13:05.174Z,"4km W of Cobb, CA",earthquake,0.31,0.52,0.27,3,automatic,nc,nc
-2022-04-19T22:53:54.470Z,32.9108333,-115.4963333,5.35,2.1,ml,17,104,0.05495,0.3,ci,ci40241640,2022-04-19T23:38:14.428Z,"8km SSE of Brawley, CA",earthquake,0.68,1.08,0.169,27,automatic,ci,ci
