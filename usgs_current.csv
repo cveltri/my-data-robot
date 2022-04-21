@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T21:49:32.488Z,61.3792,-150.005,44.8,1.1,ml,,,,0.5,ak,ak02253xg740,2022-04-21T22:00:59.376Z,"2 km NNW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-21T21:44:26.304Z,63.9235,-146.5816,0,1.3,ml,,,,1.31,ak,ak02253xf41u,2022-04-21T22:00:58.584Z,"41 km SW of Whitestone, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T21:34:04.830Z,38.4975,-112.8718333,1.03,0.02,md,7,126,0.002523,0.05,uu,uu60493517,2022-04-21T22:23:20.270Z,"16 km NE of Milford, Utah",earthquake,0.28,0.69,0.554,3,reviewed,uu,uu
-2022-04-21T21:32:46.410Z,36.5403333,-89.5671667,8.5,2.64,md,62,30,0.02031,0.09,nm,nm60391181,2022-04-21T22:26:55.309Z,"southeastern Missouri",earthquake,0.13,0.24,0.096,50,reviewed,nm,nm
+2022-04-21T21:32:46.410Z,36.5403333,-89.5671667,8.5,2.64,md,62,30,0.02031,0.09,nm,nm60391181,2022-04-21T23:11:50.261Z,"southeastern Missouri",earthquake,0.13,0.24,0.096,50,reviewed,nm,nm
 2022-04-21T21:18:49.550Z,38.8063316,-122.8085022,1.23,0.95,md,13,93,0.01044,0.04,nc,nc73721405,2022-04-21T21:35:22.890Z,"6km NW of The Geysers, CA",earthquake,0.29,0.51,0.1,4,automatic,nc,nc
 2022-04-21T21:14:46.655Z,64.2053,-151.6712,16.7,1.3,ml,,,,0.61,ak,ak02253x8q52,2022-04-21T21:25:22.999Z,"47 km NE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-21T20:53:41.320Z,44.3748333,-115.2036667,8.91,2.49,ml,14,83,0.835,0.19,mb,mb80543749,2022-04-21T22:32:46.592Z,"27 km NW of Stanley, Idaho",earthquake,0.46,0.88,0.277,12,reviewed,mb,mb
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T23:52:47.520Z,32.917,-115.5131667,11.34,3.27,ml,49,36,0.04289,0.28,ci,ci40242720,2022-04-21T19:20:30.260Z,"7km SSE of Brawley, CA",earthquake,0.29,0.54,0.154,76,reviewed,ci,ci
 2022-04-20T23:42:46.422Z,12.8228,-90.67,10,4.7,mb,,104,1.379,0.92,us,us6000hf5a,2022-04-21T00:18:09.040Z,"122 km S of Iztapa, Guatemala",earthquake,6.7,1.9,0.033,272,reviewed,us,us
 2022-04-20T23:26:48.547Z,8.1383,-82.9425,10,4.7,mb,,81,0.698,0.81,us,us6000hf54,2022-04-21T02:46:28.698Z,"9 km WNW of Limones, Panama",earthquake,5.5,1.8,0.056,97,reviewed,us,us
-2022-04-20T23:09:45.360Z,19.1721668243408,-155.490493774414,34.2599983215332,2.29,ml,45,92,,0.129999995,hv,hv72990822,2022-04-21T00:08:47.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.819999993,4.25,10,automatic,hv,hv
