@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-22T23:40:56.378Z,61.2555,-148.4135,27.5,1.6,ml,,,,1.07,ak,ak02255m4j7p,2022-04-22T23:42:28.876Z,"35 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-22T23:40:56.524Z,61.2646,-148.4308,27,1.6,ml,,,,1.13,ak,ak02255m4j7p,2022-04-22T23:43:22.953Z,"33 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-22T23:34:03.150Z,35.6753333,-117.4816667,1.19,0.9,ml,11,189,0.09005,0.21,ci,ci40244040,2022-04-22T23:37:39.853Z,"12km SW of Searles Valley, CA",earthquake,0.99,0.97,0.129,8,automatic,ci,ci
 2022-04-22T23:16:31.252Z,65.1008,-149.0718,9.9,1,ml,,,,0.79,ak,ak02255lzc3l,2022-04-22T23:19:25.926Z,"14 km ESE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-22T23:13:41.290Z,35.9868333,-118.3373333,3,1.11,ml,16,109,0.2256,0.19,ci,ci40244032,2022-04-22T23:17:09.736Z,"27km NNE of Kernville, CA",earthquake,0.37,2.07,0.122,14,automatic,ci,ci
@@ -61,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T17:28:29.940Z,36.671833,-121.2986679,3.81,1.54,md,13,138,0.04609,0.08,nc,nc73721885,2022-04-22T20:47:27.266Z,"13km S of Tres Pinos, CA",earthquake,0.42,1.1,0.21,12,automatic,nc,nc
 2022-04-22T17:27:04.446Z,64.6098,-147.7556,7.8,0.5,ml,,,,0.54,ak,ak02255ih19p,2022-04-22T17:46:28.480Z,"22 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-22T17:18:38.480Z,38.8199997,-122.8050003,3.2,0.74,md,23,80,0.005216,0.02,nc,nc73721875,2022-04-22T19:56:14.912Z,"6km NW of The Geysers, CA",earthquake,0.26,0.55,0.1,2,automatic,nc,nc
+2022-04-22T17:14:04.090Z,51.8563333333333,-177.959166666667,3.9,0.29,ml,4,179,,0.21,av,av91055748,2022-04-22T23:46:50.240Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.66,0.58,0.200903297939013,4,reviewed,av,av
 2022-04-22T17:02:05.130Z,38.8146667,-122.8343353,2.46,0.64,md,10,121,0.007054,0.01,nc,nc73721865,2022-04-22T18:01:14.204Z,"8km WNW of The Geysers, CA",earthquake,0.84,1.32,,1,automatic,nc,nc
 2022-04-22T17:00:37.670Z,33.8206667,-117.4826667,-0.66,1.16,ml,35,52,0.03152,0.24,ci,ci40243904,2022-04-22T20:27:39.148Z,"7km SSE of Home Gardens, CA",quarry blast,0.45,31.61,0.144,20,reviewed,ci,ci
 2022-04-22T16:55:42.710Z,19.1469993591309,-155.486831665039,34.4700012207031,1.77999997,md,28,214,,0.189999998,hv,hv72992667,2022-04-22T16:58:54.620Z,"6 km S of Pāhala, Hawaii",earthquake,1.1,1.80999994,1.79999995,4,automatic,hv,hv
@@ -252,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T00:01:02.370Z,33.8891667,-116.7915,12.17,1.84,ml,63,35,0.02528,0.12,ci,ci40243512,2022-04-22T17:55:51.660Z,"3km S of Cabazon, CA",earthquake,0.12,0.33,0.147,25,reviewed,ci,ci
 2022-04-22T00:00:09.350Z,48.51733333333333,-123.52183333333333,-0.24,0.84,ml,4,155,0.1404,0.07,uw,uw61833291,2022-04-22T19:44:25.270Z,"7 km N of Langford, Canada",explosion,0.71,31.61,0.027774817200725943,3,reviewed,uw,uw
 2022-04-21T23:50:09.660Z,17.9955,-66.9091666666667,11.96,2.36,md,4,161,,0.06,pr,pr71345453,2022-04-22T00:10:17.350Z,"1 km NE of Fuig, Puerto Rico",earthquake,2.22,1.07,0.077243951859721,2,reviewed,pr,pr
-2022-04-21T23:45:16.581Z,38.2474,-118.3649,10.4,1.1,ml,11,150.14,0.11,0.1058,nn,nn00837663,2022-04-22T02:38:51.304Z,"27 km SW of Mina, Nevada",earthquake,,2.5,0.22,3,reviewed,nn,nn
