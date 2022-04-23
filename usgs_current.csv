@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T21:46:35.370Z,38.8339996,-122.81633,1.36,0.85,md,11,58,0.01166,0.02,nc,nc73722455,2022-04-23T21:48:11.327Z,"8km NW of The Geysers, CA",earthquake,0.3,0.85,,1,automatic,nc,nc
+2022-04-23T21:31:22.210Z,17.9445,-66.8403333333333,12.34,2.49,md,25,178,,0.24,pr,pr71345703,2022-04-23T21:52:18.710Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.51,0.36,0.240835655560548,14,reviewed,pr,pr
 2022-04-23T21:30:53.680Z,38.803833,-122.8065033,1.21,1.64,md,29,53,0.009676,0.03,nc,nc73722445,2022-04-23T21:39:11.194Z,"5km NW of The Geysers, CA",earthquake,0.18,0.31,0.03,5,automatic,nc,nc
 2022-04-23T21:30:06.960Z,38.8045006,-122.8081665,1.22,1.46,md,26,65,0.01063,0.03,nc,nc73722440,2022-04-23T21:39:11.327Z,"5km NW of The Geysers, CA",earthquake,0.17,0.36,0.05,7,automatic,nc,nc
 2022-04-23T21:29:40.760Z,38.8041649,-122.8073349,1.16,2.1,md,32,48,0.01014,0.04,nc,nc73722430,2022-04-23T21:36:11.179Z,"5km NW of The Geysers, CA",earthquake,0.17,0.27,0.15,11,automatic,nc,nc
-2022-04-23T21:22:47.798Z,50.4743,-129.6779,10,5.3,mww,,152,0.999,0.69,us,us6000hfx7,2022-04-23T21:43:59.040Z,"Vancouver Island, Canada region",earthquake,3.7,1.7,0.05,39,reviewed,us,us
+2022-04-23T21:27:19.970Z,17.9536666666667,-66.8433333333333,12.84,2.85,md,7,207,,0.08,pr,pr71345688,2022-04-23T21:49:27.110Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.58,0.39,0.108044529022901,4,reviewed,pr,pr
+2022-04-23T21:22:47.798Z,50.4743,-129.6779,10,5.3,mww,,152,0.999,0.69,us,us6000hfx7,2022-04-23T21:50:27.603Z,"Vancouver Island, Canada region",earthquake,3.7,1.7,0.05,39,reviewed,us,us
 2022-04-23T21:21:02.300Z,38.822834,-122.8016663,3.38,1.68,md,32,32,0.006591,0.02,nc,nc73722420,2022-04-23T21:30:11.143Z,"6km NW of The Geysers, CA",earthquake,0.19,0.36,0.06,9,automatic,nc,nc
 2022-04-23T21:02:56.203Z,45.2299,-69.1295,4.73,2.5,mb_lg,,97,0.119,0.26,us,us6000hfx6,2022-04-23T21:47:40.451Z,"4 km SSW of Sebec, Maine",earthquake,1.5,2.2,0.208,6,reviewed,us,us
 2022-04-23T21:01:42.420Z,38.8221664,-122.8036652,3.13,0.85,md,25,45,0.005154,0.03,nc,nc73722415,2022-04-23T21:03:22.089Z,"6km NW of The Geysers, CA",earthquake,0.23,0.48,0.03,4,automatic,nc,nc
@@ -215,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T22:05:29.700Z,38.8204994,-122.8034973,3.28,0.8,md,13,87,0.005895,0.02,nc,nc73721985,2022-04-22T22:54:20.028Z,"6km NW of The Geysers, CA",earthquake,0.46,0.99,0.49,2,automatic,nc,nc
 2022-04-22T21:56:25.977Z,65.2229,-152.0354,1,2,ml,,,,1.27,ak,ak02255l114u,2022-04-22T21:58:44.669Z,"6 km NNE of Tanana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-22T21:55:58.990Z,38.8185005,-122.7653351,1.56,1.05,md,20,109,0.01248,0.04,nc,nc73721975,2022-04-22T22:32:18.898Z,"4km W of Cobb, CA",earthquake,0.25,0.38,0.13,5,automatic,nc,nc
-2022-04-22T21:51:29.060Z,58.3873333333333,-155.262,4.48,-0.36,ml,4,200,,0.14,av,av91055773,2022-04-23T04:50:41.050Z,"88 km ESE of King Salmon, Alaska",earthquake,0.82,2.58,0.166858374656959,4,reviewed,av,av
