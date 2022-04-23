@@ -219,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T12:31:06.080Z,38.821167,-122.7998352,2.33,1.17,md,8,97,0.008302,0.02,nc,nc73721750,2022-04-22T15:42:15.379Z,"6km NW of The Geysers, CA",earthquake,0.48,1.64,,1,automatic,nc,nc
 2022-04-22T12:16:54.860Z,33.3791667,-116.873,6.02,1.46,ml,45,33,0.02692,0.17,ci,ci40243776,2022-04-22T19:42:39.820Z,"3km NNW of Palomar Observatory, CA",earthquake,0.17,0.52,0.147,24,reviewed,ci,ci
 2022-04-22T12:00:53.987Z,61.5092,-149.935,32.8,1.6,ml,,,,0.47,ak,ak02255fc6qe,2022-04-22T12:12:29.485Z,"1 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-22T11:56:40.100Z,61.7802,-149.8437,32.5,1.4,ml,,,,0.35,ak,ak02255f2q5m,2022-04-22T17:55:34.130Z,"10 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-22T11:54:44.400Z,17.9856666666667,-66.8526666666667,19.98,2.18,md,5,177,,0.1,pr,pr71345498,2022-04-22T12:48:29.700Z,"3 km WSW of Indios, Puerto Rico",earthquake,1,0.86,0.150410380807021,5,reviewed,pr,pr
-2022-04-22T11:53:29.610Z,38.8206673,-122.7993317,2.58,0.93,md,25,31,0.008822,0.02,nc,nc73721740,2022-04-22T11:56:04.333Z,"6km NW of The Geysers, CA",earthquake,0.21,0.45,0.05,5,automatic,nc,nc
