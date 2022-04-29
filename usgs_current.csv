@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-29T22:33:22.720Z,35.5431671,-120.8619995,6.64,1.13,md,9,123,,0.06,nc,nc73726306,2022-04-29T22:34:56.149Z,"12km NNE of Cayucos, CA",earthquake,0.49,1.05,0.12,5,automatic,nc,nc
-2022-04-29T22:30:38.450Z,38.5153351,-90.5121689,1.68,2.47,md,17,66,0.2475,0.35,nm,nm60392336,2022-04-29T22:36:06.595Z,"3 km SSW of Peerless Park, Missouri",earthquake,0.66,5.17,0.24,13,reviewed,nm,nm
+2022-04-29T22:41:23.280Z,38.8325005,-122.8176651,2.04,0.85,md,9,70,0.01085,0.01,nc,nc73726316,2022-04-29T22:43:01.266Z,"8km NW of The Geysers, CA",earthquake,0.44,1.16,,1,automatic,nc,nc
+2022-04-29T22:41:11.165Z,63.5608,-147.4824,25.7,1.1,ml,,,,0.66,ak,ak0225h6anbc,2022-04-29T22:44:15.463Z,"73 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-29T22:33:22.720Z,35.5431671,-120.8619995,6.64,1.13,md,9,123,,0.06,nc,nc73726306,2022-04-29T22:43:11.154Z,"12km NNE of Cayucos, CA",earthquake,0.49,1.05,0.12,5,automatic,nc,nc
+2022-04-29T22:30:38.450Z,38.5153351,-90.5121689,1.68,2.47,md,17,66,0.2475,0.35,nm,nm60392336,2022-04-29T22:46:40.430Z,"3 km SSW of Peerless Park, Missouri",earthquake,0.66,5.17,0.24,13,reviewed,nm,nm
 2022-04-29T22:28:54.035Z,38.5983,-119.4177,2.1,1.3,ml,12,71.52,0.081,0.1497,nn,nn00838098,2022-04-29T22:32:35.993Z,"8 km ENE of Coleville, California",earthquake,,1.5,0.15,8,automatic,nn,nn
 2022-04-29T22:17:30.320Z,33.4906667,-116.4806667,13.46,0.86,ml,27,63,0.05635,0.21,ci,ci40248640,2022-04-29T22:21:01.262Z,"19km ESE of Anza, CA",earthquake,0.33,0.58,0.164,26,automatic,ci,ci
 2022-04-29T22:15:56.958Z,38.5895,-119.423,0,1.5,ml,17,79.38,0.076,0.2553,nn,nn00838093,2022-04-29T22:19:29.819Z,"7 km ENE of Coleville, California",earthquake,,3.5,0.28,12,automatic,nn,nn
@@ -26,7 +28,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T20:37:16.370Z,43.4958333,-110.3648333,10.2,1.51,ml,7,285,0.209,0.1,mb,mb80544454,2022-04-29T21:17:38.730Z,"25 km SE of Kelly, Wyoming",earthquake,1,2.05,0.145,7,reviewed,mb,mb
 2022-04-29T20:31:33.520Z,35.3146667,-118.5425,3.55,1.65,ml,35,40,0.1022,0.16,ci,ci40248552,2022-04-29T21:51:39.330Z,"22km NNW of Tehachapi, CA",earthquake,0.18,0.87,0.09,19,reviewed,ci,ci
 2022-04-29T20:30:29.700Z,32.9055,-116.9455,-0.17,1.56,ml,36,100,0.0697,0.33,ci,ci40248544,2022-04-29T21:45:35.010Z,"6km NNW of Lakeside, CA",quarry blast,0.72,31.61,0.157,24,reviewed,ci,ci
-2022-04-29T19:53:01.400Z,41.6884995,-120.0863342,2.09,2.52,md,16,189,,0.12,nc,nc73726266,2022-04-29T20:43:16.698Z,"19km NNE of Cedarville, CA",earthquake,0.71,10.07,0.07,8,automatic,nc,nc
+2022-04-29T20:17:47.540Z,38.1163333,-122.1765,-0.12,1.26,md,11,142,0.02247,0.06,nc,nc73726276,2022-04-29T22:47:25.192Z,"5km E of Vallejo, CA",quarry blast,0.29,31.61,0.247,11,reviewed,nc,nc
+2022-04-29T19:53:01.400Z,41.6884995,-120.0863342,2.09,2.52,md,16,189,,0.12,nc,nc73726266,2022-04-29T22:47:24.182Z,"19km NNE of Cedarville, CA",earthquake,0.71,10.07,0.07,8,automatic,nc,nc
 2022-04-29T19:47:03.377Z,55.793,160.1219,187.51,4.2,mb,,105,2.905,0.69,us,us7000h5wm,2022-04-29T20:53:05.040Z,"32 km SSE of Kozyrëvsk, Russia",earthquake,7.1,6.1,0.058,87,reviewed,us,us
 2022-04-29T19:37:43.380Z,38.8125,-122.7881699,1.46,0.64,md,15,43,0.005896,0.03,nc,nc73726251,2022-04-29T20:11:24.278Z,"5km NW of The Geysers, CA",earthquake,0.24,0.44,0.08,3,automatic,nc,nc
 2022-04-29T19:32:13.800Z,36.5723343,-121.1546631,7.22,1.73,md,14,120,0.02475,0.05,nc,nc73726246,2022-04-29T22:08:10.952Z,"5km NNW of Pinnacles, CA",earthquake,0.46,0.57,0.28,11,automatic,nc,nc
@@ -242,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T22:48:15.180Z,51.948,179.6035,7.69,0.95,ml,6,75,,0.21,av,av91056708,2022-04-29T02:51:13.390Z,"259 km W of Adak, Alaska",earthquake,0.71,1.09,0.379828179859002,6,reviewed,av,av
 2022-04-28T22:48:07.986Z,31.5923,-104.2305,5,2.9,ml,,91,0.242,0.6,us,us7000h5r5,2022-04-28T23:29:57.040Z,"51 km NW of Toyah, Texas",earthquake,1.5,1.9,0.057,40,reviewed,us,us
 2022-04-28T22:48:05.940Z,51.9468333333333,179.591333333333,7.59,0.65,ml,6,85,,0.23,av,av91056703,2022-04-29T02:44:52.200Z,"259 km W of Adak, Alaska",earthquake,0.78,1.23,0.176640087033508,6,reviewed,av,av
-2022-04-28T22:47:44.640Z,51.9488333333333,179.581833333333,7.65,0.57,ml,5,92,,0.15,av,av91547766,2022-04-29T02:37:09.760Z,"260 km W of Adak, Alaska",earthquake,0.6,0.99,0.151374971076683,5,reviewed,av,av
-2022-04-28T22:42:17.338Z,59.8462,-152.3384,76.6,2.1,ml,,,,0.51,ak,ak0225firiz1,2022-04-28T23:00:09.791Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
