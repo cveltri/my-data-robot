@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T06:07:53.220Z,33.3583333,-116.9715,7.29,0.87,ml,37,34,0.05904,0.16,ci,ci40248144,2022-04-29T17:44:22.737Z,"10km E of Pala, CA",earthquake,0.16,0.4,0.095,17,reviewed,ci,ci
 2022-04-29T06:05:27.670Z,34.1888333,-117.0551667,1.1,1.06,ml,33,51,0.08958,0.17,ci,ci40248136,2022-04-29T17:26:13.511Z,"5km ESE of Running Springs, CA",earthquake,0.22,0.29,0.054,12,reviewed,ci,ci
 2022-04-29T05:55:44.590Z,35.6144981,-120.7226639,4.82,1.63,md,24,63,,0.1,nc,nc73726081,2022-04-29T15:11:30.668Z,"4km WSW of Paso Robles, CA",earthquake,0.35,1.83,0.24,14,automatic,nc,nc
-2022-04-29T05:54:36.610Z,38.8651667,-123.0081667,3.3,0.89,md,31,90,0.05229,0.06,nc,nc73726076,2022-04-29T18:48:37.241Z,"7km N of Cloverdale, CA",earthquake,0.29,1.04,0.14,9,reviewed,nc,nc
+2022-04-29T05:54:36.610Z,38.8651667,-123.0081667,3.3,0.89,md,31,90,0.05229,0.06,nc,nc73726076,2022-04-29T18:53:10.834Z,"7km N of Cloverdale, CA",earthquake,0.29,1.04,0.14,9,reviewed,nc,nc
 2022-04-29T05:26:27.830Z,17.9605,-66.8606666666667,15.25,2.05,md,4,273,,0.08,pr,pr71346703,2022-04-29T05:42:00.640Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,2.03,0.81,0.313072131185607,2,reviewed,pr,pr
 2022-04-29T05:24:32.810Z,33.695,-116.742,14.98,0.19,ml,14,83,0.02826,0.12,ci,ci40248120,2022-04-29T17:11:41.475Z,"5km SSW of Idyllwild, CA",earthquake,0.29,0.37,0.216,5,reviewed,ci,ci
 2022-04-29T05:24:25.672Z,62.9821,-150.4587,0,1.9,ml,,,,0.86,ak,ak0225gw2ny9,2022-04-29T05:35:52.571Z,"56 km NNE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -158,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T03:32:22.242Z,61.9692,-149.8816,44.7,1,ml,,,,0.45,ak,ak0225guxi4k,2022-04-29T03:35:04.594Z,"21 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-29T03:22:16.930Z,36.0723333,-117.4381667,2.79,1.4,ml,23,65,0.1902,0.16,ci,ci40248072,2022-04-29T16:05:42.374Z,"34km N of Searles Valley, CA",earthquake,0.22,0.74,0.252,10,reviewed,ci,ci
 2022-04-29T03:04:58.980Z,33.5955,-116.8053333,6.55,0.56,ml,15,62,0.03446,0.09,ci,ci40248056,2022-04-29T12:41:30.568Z,"13km WNW of Anza, CA",earthquake,0.18,0.32,0.213,13,reviewed,ci,ci
+2022-04-29T02:55:32.680Z,51.9533333333333,179.579166666667,7.04,0.15,ml,4,166,,0.14,av,av91056743,2022-04-29T18:55:50.500Z,"260 km W of Adak, Alaska",earthquake,0.84,1.2,0.352316361487819,4,reviewed,av,av
 2022-04-29T02:21:51.000Z,35.4335,-117.9908333,9.62,1.05,ml,25,68,0.06049,0.14,ci,ci40248048,2022-04-29T15:58:23.938Z,"29km SW of Inyokern, CA",earthquake,0.19,0.47,0.183,11,reviewed,ci,ci
 2022-04-29T02:05:03.140Z,36.5751648,-121.1186676,8.93,1.52,md,15,125,0.05383,0.14,nc,nc73726026,2022-04-29T03:21:12.278Z,"5km NNE of Pinnacles, CA",earthquake,0.47,1.1,0.15,12,automatic,nc,nc
 2022-04-29T01:39:43.055Z,61.3302,-146.7947,24.7,1.1,ml,,,,0.71,ak,ak0225gts6m4,2022-04-29T01:51:05.219Z,"32 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
