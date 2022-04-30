@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T00:06:21.405Z,64.9368,-147.3323,0.4,1.7,ml,,,,0.91,ak,ak0225igiz7w,2022-04-30T00:24:55.779Z,"13 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-30T00:05:04.390Z,38.8250008,-122.8099976,3.37,0.35,md,8,175,0.001605,0.01,nc,nc73726341,2022-04-30T00:27:18.811Z,"7km NW of The Geysers, CA",earthquake,0.83,1.47,,1,automatic,nc,nc
 2022-04-29T23:59:53.290Z,38.7985001,-122.8126678,2.56,0.81,md,25,79,0.01263,0.05,nc,nc73726331,2022-04-30T02:24:10.475Z,"5km WNW of The Geysers, CA",earthquake,0.26,0.48,0.28,3,automatic,nc,nc
-2022-04-29T23:49:24.957Z,54.7102,-159.6742,27.68,4.1,mwr,,233,0.13,0.43,us,us7000h5y9,2022-04-30T22:47:55.040Z,"87 km SE of Sand Point, Alaska",earthquake,5.2,4.5,0.071,19,reviewed,us,us
