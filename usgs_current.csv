@@ -150,6 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T09:33:46.020Z,33.0308333,-116.2923333,4.83,1.75,ml,72,40,0.07659,0.17,ci,ci40251064,2022-05-03T15:46:32.660Z,"20km SW of Ocotillo Wells, CA",earthquake,0.14,0.42,0.154,46,reviewed,ci,ci
 2022-05-03T09:31:38.220Z,38.8271675,-122.8018341,1.64,1.07,md,13,80,0.007458,0.02,nc,nc73728656,2022-05-03T09:55:16.142Z,"7km NW of The Geysers, CA",earthquake,0.27,0.7,0.13,2,automatic,nc,nc
 2022-05-03T09:27:01.740Z,38.8361664,-122.8203354,1.89,0.85,md,9,71,0.01208,0.02,nc,nc73728651,2022-05-03T11:49:10.712Z,"9km W of Cobb, CA",earthquake,0.32,1.1,,1,automatic,nc,nc
+2022-05-03T09:06:56.626Z,38.743,-118.5438,1.9,1,ml,8,99.25,0.348,0.0982,nn,nn00838267,2022-05-03T23:42:13.218Z,"21 km ENE of Walker Lake, Nevada",earthquake,,2,0.06,2,reviewed,nn,nn
 2022-05-03T08:55:33.660Z,41.6626667,-111.669,9.09,1.46,ml,16,57,0.0957,0.07,uu,uu60495437,2022-05-03T13:33:51.750Z,"12 km E of Millville, Utah",earthquake,0.24,0.62,0.033,2,reviewed,uu,uu
 2022-05-03T08:53:14.550Z,38.8311653,-122.8130035,1.85,0.85,md,12,66,0.008089,0.02,nc,nc73728646,2022-05-03T11:23:22.554Z,"8km NW of The Geysers, CA",earthquake,0.3,0.87,,1,automatic,nc,nc
 2022-05-03T08:48:27.686Z,0.5044,126.6417,58.32,4.6,mb,,51,0.772,0.48,us,us7000h6s5,2022-05-03T09:34:54.040Z,"88 km WSW of Ternate, Indonesia",earthquake,6,8.5,0.107,26,reviewed,us,us
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T00:15:05.700Z,38.831501,-122.8153305,1.19,0.85,md,15,55,0.009076,0.01,nc,nc73728501,2022-05-03T00:38:13.584Z,"8km NW of The Geysers, CA",earthquake,0.24,0.73,,1,automatic,nc,nc
 2022-05-02T23:59:19.490Z,38.8321648,-122.8148346,1.14,0.85,md,12,63,0.009514,0.01,nc,nc73728491,2022-05-03T00:17:16.461Z,"8km NW of The Geysers, CA",earthquake,0.26,0.69,,1,automatic,nc,nc
 2022-05-02T23:55:02.770Z,58.2908333333333,-154.983166666667,2.69,-0.46,ml,4,148,,0.14,av,av91057138,2022-05-03T02:12:18.890Z,"86 km NNW of Karluk, Alaska",earthquake,0.5,0.65,0.200057592178711,4,reviewed,av,av
-2022-05-02T23:40:02.280Z,33.6981667,-116.7073333,17.27,0.62,ml,19,113,0.01416,0.1,ci,ci40250896,2022-05-03T00:05:28.899Z,"5km SSE of Idyllwild, CA",earthquake,0.37,0.31,0.101,9,reviewed,ci,ci
