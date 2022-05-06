@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-06T23:47:46.160Z,38.8336678,-122.8148346,1.91,0.36,md,10,73,0.01091,0.01,nc,nc73730246,2022-05-06T23:49:22.931Z,"8km W of Cobb, CA",earthquake,0.34,0.86,,1,automatic,nc,nc
+2022-05-06T23:47:46.160Z,38.8336678,-122.8148346,1.91,0.36,md,10,73,0.01091,0.01,nc,nc73730246,2022-05-06T23:56:10.777Z,"8km W of Cobb, CA",earthquake,0.34,0.86,,1,automatic,nc,nc
 2022-05-06T23:29:00.446Z,-15.752,-70.5974,205.74,4.5,mb,,120,2.117,0.79,us,us7000h7np,2022-05-06T23:46:55.040Z,"6 km S of Santa Lucía, Peru",earthquake,9.8,11.9,0.145,14,reviewed,us,us
 2022-05-06T23:26:42.980Z,38.8326683,-122.8150024,1.99,1.02,md,21,53,0.01003,0.02,nc,nc73730241,2022-05-06T23:43:13.709Z,"8km NW of The Geysers, CA",earthquake,0.21,0.53,0.15,3,automatic,nc,nc
 2022-05-06T23:24:37.000Z,59.9533,-151.5069,62.9,1.3,ml,,,,0.26,ak,ak0225srjx5h,2022-05-06T23:32:02.661Z,"12 km E of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T22:33:28.360Z,35.4101667,-117.2606667,3.08,1.68,ml,28,75,0.00509,0.12,ci,ci40253928,2022-05-06T22:57:12.580Z,"34km E of Johannesburg, CA",earthquake,0.17,0.23,0.206,22,reviewed,ci,ci
 2022-05-06T22:10:02.317Z,59.8077,-139.399,0,1.7,ml,,,,1.18,ak,ak0225sqvevb,2022-05-06T22:36:11.813Z,"34 km NNE of Yakutat, Alaska",ice quake,,0.4,,,automatic,ak,ak
 2022-05-06T22:02:50.644Z,61.4008,-150.5055,17.1,1.1,ml,,,,0.47,ak,ak0225sqtsvi,2022-05-06T22:07:36.086Z,"15 km S of Susitna, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-05-06T22:00:52.470Z,38.8289986,-122.8148346,1.72,0.36,md,12,79,0.006718,0.02,nc,nc73730231,2022-05-06T23:47:10.729Z,"8km NW of The Geysers, CA",earthquake,0.33,0.74,,1,automatic,nc,nc
+2022-05-06T22:00:52.470Z,38.8289986,-122.8148346,1.72,0.36,md,12,79,0.006718,0.02,nc,nc73730231,2022-05-06T23:54:14.768Z,"8km NW of The Geysers, CA",earthquake,0.33,0.74,,1,automatic,nc,nc
 2022-05-06T21:25:56.977Z,-25.2065,179.5636,526.35,4.5,mb,,97,4.618,1.03,us,us7000h7n7,2022-05-06T22:10:36.040Z,"south of the Fiji Islands",earthquake,11.9,7.6,0.124,19,reviewed,us,us
 2022-05-06T21:25:06.558Z,59.7808,-139.3967,0,2,ml,,,,1,ak,ak0225sqd7bz,2022-05-06T22:35:50.579Z,"32 km NE of Yakutat, Alaska",ice quake,,0.4,,,automatic,ak,ak
 2022-05-06T21:07:38.330Z,38.8274994,-122.8156662,1.76,1.17,md,23,54,0.00599,0.03,nc,nc73730221,2022-05-06T23:03:14.461Z,"8km NW of The Geysers, CA",earthquake,0.2,0.4,0.02,3,automatic,nc,nc
