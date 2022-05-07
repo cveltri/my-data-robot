@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-07T08:49:22.181Z,61.0972,-147.3423,16.7,1.3,ml,,,,0.63,ak,ak0225u6b3cq,2022-05-07T08:52:47.705Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-07T08:49:22.096Z,61.0919,-147.3544,16.1,1.3,ml,,,,0.64,ak,ak0225u6b3cq,2022-05-07T08:57:54.887Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-07T08:41:15.547Z,63.218,-150.644,30.1,1.6,ml,,,,1.03,ak,ak0225u69cxw,2022-05-07T08:50:11.433Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-07T08:39:15.790Z,36.0303345,-120.5896683,3.61,1.32,md,18,76,,0.04,nc,nc73730376,2022-05-07T08:49:11.030Z,"20km NW of Parkfield, CA",earthquake,0.31,0.56,0.12,11,automatic,nc,nc
 2022-05-07T08:38:56.494Z,59.5784,-139.0434,15.2,1.7,ml,,,,0.67,ak,ak0225u68t43,2022-05-07T08:44:37.937Z,"38 km E of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T07:24:21.780Z,33.818,-116.8021667,7.4,0.7,ml,14,170,0.128,0.33,ci,ci40254120,2022-05-07T07:27:52.231Z,"11km S of Cabazon, CA",earthquake,1.74,6.58,0.282,10,automatic,ci,ci
 2022-05-07T07:19:01.930Z,37.7858333,-112.949,6.4,2.54,ml,16,152,0.2196,0.22,uu,uu60495807,2022-05-07T07:58:25.178Z,"2 km SSW of Summit, Utah",earthquake,0.7,0.84,0.208,13,reviewed,uu,uu
 2022-05-07T07:13:23.440Z,33.5948333,-116.8056667,7.55,0.66,ml,24,61,0.03471,0.11,ci,ci40254112,2022-05-07T07:17:01.924Z,"13km WNW of Anza, CA",earthquake,0.21,0.43,0.18,20,automatic,ci,ci
-2022-05-07T07:11:41.620Z,37.9679985,-122.0246658,10.94,1.19,md,10,166,0.05921,0.1,nc,nc73730341,2022-05-07T08:46:11.015Z,"1km W of Concord, CA",earthquake,0.6,1.09,0.09,6,automatic,nc,nc
+2022-05-07T07:11:41.620Z,37.9679985,-122.0246658,10.94,1.19,md,10,166,0.05921,0.1,nc,nc73730341,2022-05-07T08:55:12.067Z,"1km W of Concord, CA",earthquake,0.6,1.09,0.09,6,automatic,nc,nc
 2022-05-07T07:01:16.430Z,19.219165802002,-155.385162353516,29.9599990844727,1.80999994,md,26,155,,0.109999999,hv,hv73005292,2022-05-07T07:04:25.370Z,"9 km E of Pāhala, Hawaii",earthquake,0.74,1.00999999,0.0799999982,5,automatic,hv,hv
 2022-05-07T06:55:35.250Z,17.9506666666667,-66.972,6.89,2.15,md,5,212,,0.08,pr,pr71347738,2022-05-07T08:43:14.530Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.97,0.41,0.127537903422586,5,reviewed,pr,pr
 2022-05-07T06:49:22.758Z,63.8914,-148.147,84.1,1.3,ml,,,,0.57,ak,ak0225u54853,2022-05-07T06:53:20.336Z,"40 km E of Healy, Alaska",earthquake,,1.4,,,automatic,ak,ak
