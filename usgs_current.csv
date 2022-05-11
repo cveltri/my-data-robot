@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T06:04:30.049Z,36.614,-115.1048,6.4,0.6,ml,8,257.04,0.117,0.081,nn,nn00838709,2022-05-11T06:08:08.817Z,"41 km N of Nellis Air Force Base, Nevada",earthquake,,3.1,0.95,4,automatic,nn,nn
 2022-05-11T06:03:10.930Z,35.0761667,-118.937,4.57,1.27,ml,12,132,0.1012,0.3,ci,ci40256008,2022-05-11T06:06:41.947Z,"15km N of Grapevine, CA",earthquake,0.9,1.99,0.111,17,automatic,ci,ci
 2022-05-11T05:54:47.308Z,64.7829,-152.407,15.3,1,ml,,,,0.92,ak,ak02260qpb16,2022-05-11T06:10:58.978Z,"45 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-11T05:52:23.420Z,38.7885017,-122.7708359,1.19,0.64,md,8,97,0.01414,0.03,nc,nc73732041,2022-05-11T06:09:18.501Z,"2km NW of The Geysers, CA",earthquake,0.4,0.55,0.21,3,automatic,nc,nc
+2022-05-11T05:52:23.420Z,38.7885017,-122.7708359,1.19,0.64,md,8,97,0.01414,0.03,nc,nc73732041,2022-05-11T07:39:11.040Z,"2km NW of The Geysers, CA",earthquake,0.4,0.55,0.21,3,automatic,nc,nc
 2022-05-11T05:44:25.595Z,60.2759,-141.6411,1.6,1.2,ml,,,,0.45,ak,ak02260qn473,2022-05-11T05:55:32.597Z,"134 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-11T05:35:31.390Z,34.2408333,-117.0745,2.12,1.04,ml,23,95,0.1291,0.25,ci,ci40256000,2022-05-11T05:39:12.672Z,"5km NE of Running Springs, CA",earthquake,0.45,2.07,0.174,23,automatic,ci,ci
 2022-05-11T05:30:08.120Z,36.011,-117.911,3.86,0.62,ml,9,154,0.01702,0.15,ci,ci40255992,2022-05-11T05:33:38.406Z,"5km SE of Coso Junction, CA",earthquake,0.58,0.87,0.064,6,automatic,ci,ci
