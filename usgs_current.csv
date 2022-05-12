@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-12T09:51:37.923Z,61.4328,-147.9894,18.1,0.7,ml,,,,0.3,ak,ak02262glq2q,2022-05-12T09:54:58.049Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-12T09:44:19.545Z,64.6175,-146.9989,9.1,1.6,ml,,,,0.56,ak,ak02262gk6n6,2022-05-12T09:47:37.862Z,"5 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T09:42:33.153Z,63.326,-150.7103,131.5,1.8,ml,,,,0.37,ak,ak02262gjs8u,2022-05-12T09:45:13.420Z,"55 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-12T09:31:22.130Z,33.651,-116.7575,7.67,0.31,ml,11,146,0.05742,0.22,ci,ci40016151,2022-05-12T09:35:03.488Z,"10km SSW of Idyllwild, CA",earthquake,0.87,1.37,0.064,6,automatic,ci,ci
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T04:42:26.775Z,63.3994,-151.3387,0.1,1.6,ml,,,,1.05,ak,ak02262dklqt,2022-05-12T04:47:31.928Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:28:12.860Z,38.828167,-122.8148346,2.02,1.33,md,26,42,0.006044,0.02,nc,nc73732491,2022-05-12T07:54:11.070Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.36,2,automatic,nc,nc
 2022-05-12T04:28:05.890Z,38.8283348,-122.8151703,1.96,1.93,md,25,44,0.006339,0.02,nc,nc73732486,2022-05-12T07:28:11.876Z,"8km NW of The Geysers, CA",earthquake,0.18,0.35,0.14,5,automatic,nc,nc
-2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"120 km E of Chignik, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2022-05-12T04:23:00.685Z,56.2852,-156.4513,52.5,2.6,ml,,,,0.29,ak,ak02262dgh3v,2022-05-12T04:45:30.040Z,"Alaska Peninsula",earthquake,,3.1,,,automatic,ak,ak
 2022-05-12T04:14:13.281Z,62.1089,-150.2173,15.3,1.3,ml,,,,0.31,ak,ak02262deknk,2022-05-12T04:16:41.345Z,"19 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-12T04:05:22.550Z,33.2655,-116.2986667,12.17,1.17,ml,31,68,0.0817,0.23,ci,ci40016063,2022-05-12T04:09:02.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.66,0.157,27,automatic,ci,ci
 2022-05-12T03:53:40.762Z,31.6122,-103.9456,2.64,2.8,ml,,70,0.25,0.32,us,us6000hkh9,2022-05-12T04:14:30.040Z,"34 km WSW of Mentone, Texas",earthquake,1.2,1.1,0.052,48,reviewed,us,us
