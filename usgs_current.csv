@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T16:00:41.728Z,56.4203,-155.9749,0,2.9,ml,,,,0.65,ak,ak022696m824,2022-05-16T16:31:08.040Z,"125 km WSW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-16T15:59:33.170Z,33.67,-116.7015,8.65,0.19,ml,12,178,0.092,0.14,ci,ci40020311,2022-05-16T18:06:06.832Z,"8km SSE of Idyllwild, CA",earthquake,0.67,31.61,0.033,3,reviewed,ci,ci
 2022-05-16T15:58:10.270Z,46.939166666666665,-121.96666666666667,13.09,-0.05,md,9,166,0.02949,0.12,uw,uw61831807,2022-05-16T17:26:19.760Z,"16 km SSE of Carbonado, Washington",earthquake,0.57,0.59,0.1586376796492266,9,reviewed,uw,uw
-2022-05-16T15:55:01.870Z,35.642,-118.3225,8.4,1.62,ml,33,78,0.05815,0.14,ci,ci40020303,2022-05-16T21:01:57.160Z,"14km E of Lake Isabella, CA",earthquake,0.2,0.38,0.186,23,reviewed,ci,ci
