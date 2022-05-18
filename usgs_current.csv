@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:56:58.260Z,18.0218333333333,-66.884,11.42,1.9,md,4,268,,0.09,pr,pr71349113,2022-05-17T09:08:30.160Z,"1 km NW of Palomas, Puerto Rico",earthquake,3.62,2.23,0.0112008764231135,3,reviewed,pr,pr
 2022-05-17T08:56:15.890Z,38.793335,-122.80867,3.14,1.01,md,16,93,0.006646,0.03,nc,nc73734936,2022-05-17T09:04:10.565Z,"5km WNW of The Geysers, CA",earthquake,0.37,0.81,0.6,2,automatic,nc,nc
 2022-05-17T08:56:06.040Z,38.7923317,-122.8083344,2.83,1.6,md,32,79,0.005738,0.03,nc,nc73734931,2022-05-17T11:48:10.335Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.39,0.17,8,automatic,nc,nc
-2022-05-17T08:53:21.050Z,39.178,-122.8603333,6.02,1.59,md,15,92,0.05805,0.11,nc,nc73734926,2022-05-18T08:26:10.844Z,"5km ENE of Upper Lake, CA",earthquake,0.34,0.64,0.09,16,reviewed,nc,nc
