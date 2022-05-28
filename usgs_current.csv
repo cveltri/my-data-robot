@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-28T07:09:12.780Z,33.3005,-116.8788333,13.12,2.55,ml,77,24,0.05467,0.21,ci,ci40028959,2022-05-28T07:39:42.470Z,"6km SSW of Palomar Observatory, CA",earthquake,0.19,0.54,0.13,26,automatic,ci,ci
+2022-05-28T07:09:12.780Z,33.3005,-116.8788333,13.12,2.55,ml,77,24,0.05467,0.21,ci,ci40028959,2022-05-28T07:44:48.821Z,"6km SSW of Palomar Observatory, CA",earthquake,0.19,0.54,0.13,26,automatic,ci,ci
 2022-05-28T07:08:01.374Z,60.0229,-152.5437,73,1.1,ml,,,,0.53,ak,ak0226svr42h,2022-05-28T07:11:26.892Z,"46 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-28T06:55:25.070Z,33.732,-116.8311667,14.5,0.51,ml,18,188,0.0997,0.15,ci,ci40028943,2022-05-28T06:58:57.830Z,"6km ESE of Valle Vista, CA",earthquake,0.66,0.5,0.094,9,automatic,ci,ci
 2022-05-28T06:49:40.140Z,19.2068328857422,-155.399169921875,31.2399997711182,1.99000001,md,30,172,,0.109999999,hv,hv73025452,2022-05-28T06:52:59.400Z,"8 km E of Pāhala, Hawaii",earthquake,0.67,0.879999995,0.289999992,5,automatic,hv,hv
