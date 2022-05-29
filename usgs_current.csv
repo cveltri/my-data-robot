@@ -170,5 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T18:01:37.661Z,60.3707,-151.4604,51.3,1.6,ml,,,,0.61,ak,ak0226t29gm0,2022-05-28T18:12:22.186Z,"8 km W of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-28T18:01:24.470Z,49.4025,-120.51633333333334,-0.37,1.74,ml,11,188,0.588,0.21,uw,uw61836412,2022-05-29T17:40:00.370Z,"6 km S of Princeton, Canada",explosion,1.21,31.61,0.22264607394986546,5,reviewed,uw,uw
 2022-05-28T17:58:13.404Z,60.3145,-151.3566,28.7,3.3,ml,,,,0.66,ak,ak0226t206z4,2022-05-28T20:52:46.040Z,"5 km WSW of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-28T17:49:33.250Z,19.1573333740234,-155.371002197266,28.8500003814697,1.76,ml,48,178,,0.140000001,hv,hv73026007,2022-05-28T17:55:04.700Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.5,0.819999993,4.57,9,automatic,hv,hv
-2022-05-28T17:49:02.393Z,62.3347,-150.3928,20.3,1.7,ml,,,,0.8,ak,ak0226t1y8ms,2022-05-28T17:51:32.719Z,"8 km WNW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
