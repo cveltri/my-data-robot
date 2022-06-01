@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-01T07:45:48.920Z,32.5453333,-115.2405,15.65,1.86,ml,19,57,0.1368,0.31,ci,ci40031527,2022-06-01T07:49:35.142Z,"11km ESE of Puebla, B.C., MX",earthquake,0.66,1.4,0.255,23,automatic,ci,ci
 2022-06-01T07:38:22.040Z,33.3546667,-116.2771667,4.92,1.22,ml,26,127,0.1455,0.36,ci,ci40031519,2022-06-01T07:42:01.606Z,"14km NE of Borrego Springs, CA",earthquake,0.87,3.98,0.163,28,automatic,ci,ci
 2022-06-01T07:38:15.110Z,33.2888333,-115.831,2.44,1.4,ml,36,38,0.1137,0.21,ci,ci40031511,2022-06-01T07:41:47.099Z,"11km SW of Bombay Beach, CA",earthquake,0.26,0.58,0.143,11,automatic,ci,ci
 2022-06-01T07:37:02.180Z,33.4916667,-116.7528333,7.02,0.57,ml,22,42,0.07173,0.14,ci,ci40031503,2022-06-01T07:40:47.266Z,"10km SW of Anza, CA",earthquake,0.21,0.62,0.135,20,automatic,ci,ci
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T07:55:46.440Z,19.7346,-68.7525,51,3.84,md,18,298,0.6226,0.38,pr,pr2022151003,2022-05-31T12:58:17.040Z,"84 km NE of Samaná, Dominican Republic",earthquake,4.26,20.61,0.06,4,reviewed,pr,pr
 2022-05-31T07:54:31.520Z,37.5135,-118.881,5.7,0.89,md,18,138,0.08681,0.03,nc,nc73739466,2022-05-31T20:41:15.807Z,"16km SSE of Mammoth Lakes, CA",earthquake,0.52,1.68,0.069,16,reviewed,nc,nc
 2022-05-31T07:51:32.111Z,64.4546,-147.1946,0.8,1.2,ml,,,,0.89,ak,ak0226xumfta,2022-05-31T08:11:56.933Z,"16 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-31T07:49:21.270Z,17.9821666666667,-66.8306666666667,9.91,2.18,md,8,200,,0.11,pr,pr71351608,2022-05-31T08:01:10.690Z,"1 km SW of Indios, Puerto Rico",earthquake,0.58,0.65,0.0928220428614348,5,reviewed,pr,pr
