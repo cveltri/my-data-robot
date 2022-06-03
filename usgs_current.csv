@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-02T12:18:10.465Z,52.19,-169.8399,40.85,4,mb,,184,1.693,1.09,us,us7000hebn,2022-06-02T17:26:25.059Z,"106 km SW of Nikolski, Alaska",earthquake,10.8,12.8,0.096,29,reviewed,us,us
 2022-06-02T12:16:31.670Z,-55.9953,-144.0576,10,5.4,mww,,28,27.593,0.94,us,us7000hebv,2022-06-02T14:19:45.867Z,"Pacific-Antarctic Ridge",earthquake,10.5,1.7,0.093,11,reviewed,us,us
 2022-06-02T12:14:21.330Z,38.0713333,-121.9946667,15.88,1.71,md,38,121,0.04744,0.11,nc,nc73740056,2022-06-03T01:06:16.378Z,"6km NNW of Bay Point, CA",earthquake,0.21,0.32,0.222,37,reviewed,nc,nc
-2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-03T04:51:53.960Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
+2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-03T04:58:27.192Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
 2022-06-02T11:55:43.911Z,9.024,126.1449,77.6,4.6,mb,,97,2.021,1.32,us,us7000hebj,2022-06-02T12:31:22.040Z,"3 km NW of Gamut, Philippines",earthquake,10.5,6.7,0.053,112,reviewed,us,us
 2022-06-02T11:28:44.340Z,34.0433333,-117.1726667,7.29,0.69,ml,31,110,0.05065,0.17,ci,ci40032359,2022-06-02T14:35:54.596Z,"2km SSE of Redlands, CA",earthquake,0.24,0.6,0.145,7,reviewed,ci,ci
 2022-06-02T11:25:53.299Z,38.2469,-118.3496,7.1,-0.3,ml,6,257.44,0.122,0.0501,nn,nn00840197,2022-06-03T02:39:30.697Z,"26 km SW of Mina, Nevada",earthquake,,13.7,0,1,reviewed,nn,nn
