@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-04T20:48:36.680Z,63.2345,-151.7507,9.3,1.3,ml,,,,0.86,ak,ak02274ohtuc,2022-06-04T20:50:29.921Z,"34 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-04T20:48:36.849Z,63.247,-151.7655,9.3,1.4,ml,,,,1.03,ak,ak02274ohtuc,2022-06-04T20:57:02.583Z,"32 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T20:25:05.704Z,61.5686,-146.5799,34.4,1.2,ml,,,,0.44,ak,ak02274octzd,2022-06-04T20:36:08.741Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-04T19:54:28.648Z,37.2674,-104.4897,5,2.9,ml,,99,0.143,0.83,us,us7000hf0l,2022-06-04T20:28:04.949Z,"5 km NNW of El Moro, Colorado",earthquake,2.1,2,0.043,71,reviewed,us,us
 2022-06-04T19:38:15.906Z,63.1212,-150.5691,92.6,1.7,ml,,,,0.51,ak,ak02274nu7he,2022-06-04T19:41:11.496Z,"70 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
