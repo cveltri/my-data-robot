@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-08T18:26:56.970Z,36.2613335,-120.4606705,2.41,1.4,md,5,195,0.1038,0.01,nc,nc73741781,2022-06-08T18:38:10.498Z,"16km NW of Coalinga, CA",earthquake,0.86,1.82,0.09,4,automatic,nc,nc
+2022-06-08T18:26:56.970Z,36.2613335,-120.4606705,2.41,1.4,md,5,195,0.1038,0.01,nc,nc73741781,2022-06-08T18:52:14.569Z,"16km NW of Coalinga, CA",earthquake,0.86,1.82,0.09,4,automatic,nc,nc
 2022-06-08T18:26:01.484Z,60.0426,-153.0173,117.9,0.9,ml,,,,0.51,ak,ak0227b9bk56,2022-06-08T18:30:46.592Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-08T18:20:51.910Z,17.8735,-66.8478333333333,12.51,2.42,md,16,228,,0.24,pr,pr71352998,2022-06-08T18:49:44.000Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,1.21,0.63,0.206880971287409,8,reviewed,pr,pr
 2022-06-08T18:19:30.190Z,19.2281665802002,-155.38166809082,34.6399993896484,1.88,md,26,157,,0.170000002,hv,hv73038317,2022-06-08T18:22:42.550Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.74,1.13,1.39999998,6,automatic,hv,hv
