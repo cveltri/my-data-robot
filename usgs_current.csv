@@ -211,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T14:55:45.497Z,38.4557,-117.9054,0,0.6,ml,7,331.89,0.197,0.0598,nn,nn00840617,2022-06-09T04:08:09.585Z,"19 km ENE of Mina, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2022-06-08T14:49:30.599Z,36.4992,-115.2417,9.6,0.6,ml,5,154.16,0.069,0.2185,nn,nn00840616,2022-06-09T04:08:08.758Z,"32 km NNW of Nellis Air Force Base, Nevada",earthquake,,6.7,0.29,2,reviewed,nn,nn
 2022-06-08T14:41:32.920Z,33.283,-116.1145,2.76,3.05,ml,73,33,0.1078,0.19,ci,ci40036375,2022-06-09T00:30:59.388Z,"15km W of Salton City, CA",earthquake,0.17,0.43,0.126,22,reviewed,ci,ci
-2022-06-08T14:40:13.780Z,35.6835,-117.4931667,10.69,0.95,ml,17,85,0.1,0.14,ci,ci40036367,2022-06-08T22:13:03.115Z,"12km SW of Searles Valley, CA",earthquake,0.36,0.64,0.201,10,reviewed,ci,ci
-2022-06-08T14:40:00.371Z,61.6632,-150.385,50,1.4,ml,,,,0.91,ak,ak0227b70tnp,2022-06-08T14:41:43.429Z,"14 km NNE of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-06-08T14:35:57.720Z,38.943,-123.0413333,6.26,1.29,md,31,80,0.1179,0.07,nc,nc73741516,2022-06-09T00:07:17.476Z,"15km N of Cloverdale, CA",earthquake,0.19,0.83,0.12,12,reviewed,nc,nc
