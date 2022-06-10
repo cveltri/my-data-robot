@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T10:51:30.090Z,19.1749992370605,-155.488662719727,31.1399993896484,1.70000005,md,40,147,,0.129999995,hv,hv73039957,2022-06-10T10:54:37.910Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.779999971,0.980000019,7,automatic,hv,hv
 2022-06-10T10:36:49.322Z,62.4847,-149.4286,53,1.9,ml,,,,0.35,ak,ak0227efp150,2022-06-10T10:38:47.569Z,"34 km E of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-10T10:25:25.772Z,65.5478,-148.1746,0,1.4,ml,,,,0.96,ak,ak0227efmmg1,2022-06-10T10:27:59.920Z,"17 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-10T10:11:11.630Z,33.5415,-116.5513333,14.17,0.69,ml,23,36,0.06312,0.16,ci,ci40037823,2022-06-10T10:14:46.258Z,"11km E of Anza, CA",earthquake,0.26,0.47,0.146,19,automatic,ci,ci
