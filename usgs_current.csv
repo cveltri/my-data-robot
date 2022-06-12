@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T18:27:39.570Z,35.8125,-117.6315,6.07,0.89,ml,8,123,0.02781,0.17,ci,ci40038527,2022-06-11T18:31:13.306Z,"21km WNW of Searles Valley, CA",earthquake,0.56,0.92,0.108,9,automatic,ci,ci
 2022-06-11T18:26:22.951Z,-36.4565,178.4601,114.73,4.6,mb,,139,1.11,1.08,us,us7000hgs5,2022-06-11T19:20:29.040Z,"201 km NNE of Opotiki, New Zealand",earthquake,5.1,6.5,0.114,25,reviewed,us,us
 2022-06-11T18:24:56.766Z,62.9125,-150.8262,102,1.7,ml,,,,0.17,ak,ak0227g7xagc,2022-06-11T18:27:12.787Z,"46 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-06-11T18:07:31.451Z,57.7483,-155.1759,20.4,1.6,ml,,,,0.28,ak,ak0227g7tlbt,2022-06-11T18:09:28.184Z,"47 km WNW of Karluk, Alaska",earthquake,,4.1,,,automatic,ak,ak
-2022-06-11T18:03:54.630Z,33.4818333,-116.5058333,10.88,1.67,ml,53,33,0.07875,0.24,ci,ci40038519,2022-06-11T18:14:39.570Z,"18km ESE of Anza, CA",earthquake,0.31,0.57,0.241,27,automatic,ci,ci
-2022-06-11T18:02:55.556Z,56.0081,-150.0406,10,2.9,ml,,221,2.261,1.33,us,us7000hgs0,2022-06-11T21:20:48.040Z,"224 km SE of Chiniak, Alaska",earthquake,8.3,2,0.055,44,reviewed,us,us
