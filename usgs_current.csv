@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T20:20:02.340Z,39.1936684,-123.4516678,4.92,2.01,md,12,89,0.06171,0.04,nc,nc73744091,2022-06-11T23:35:11.073Z,"22km WNW of Ukiah, CA",earthquake,0.29,0.91,0.08,11,automatic,nc,nc
 2022-06-11T20:03:25.608Z,61.8862,-151.088,70.6,1.3,ml,,,,0.76,ak,ak0227g8zl82,2022-06-11T20:05:49.518Z,"19 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-11T20:00:59.000Z,38.7905006,-122.8073349,2.84,1.15,md,31,82,0.003978,0.04,nc,nc73744081,2022-06-11T23:20:09.972Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.42,0.13,6,automatic,nc,nc
-2022-06-11T19:52:57.970Z,38.8241653,-122.8121643,1.86,0.83,md,17,38,0.01789,0.02,nc,nc73744076,2022-06-11T20:12:12.829Z,"7km NW of The Geysers, CA",earthquake,0.21,0.7,0.45,2,automatic,nc,nc
-2022-06-11T19:52:18.120Z,33.0891667,-116.528,0.37,0.84,ml,10,115,0.2316,0.21,ci,ci40038551,2022-06-11T19:56:04.631Z,"7km E of Julian, CA",earthquake,0.92,31.61,0.213,13,automatic,ci,ci
