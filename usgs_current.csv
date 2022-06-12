@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
 2022-06-11T07:39:14.599Z,62.2464,-150.1415,11.8,1.7,ml,,,,0.65,ak,ak0227g1gnab,2022-06-11T07:41:38.437Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-11T07:29:54.296Z,-7.992,-13.6183,10,5.6,mww,,45,0.737,0.65,us,us7000hgp6,2022-06-11T16:11:36.766Z,"87 km E of Georgetown, Saint Helena",earthquake,3.1,1.9,0.059,28,reviewed,us,us
