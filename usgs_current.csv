@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-15T11:47:42.780Z,37.7971649,-121.9568329,17.97,1.33,md,11,150,0.08629,0.07,nc,nc73745626,2022-06-15T11:49:16.906Z,"3km NE of San Ramon, CA",earthquake,0.64,0.8,0.16,5,automatic,nc,nc
+2022-06-15T11:53:47.130Z,37.303833,-122.2021637,2.25,1.45,md,12,67,0.02044,0.16,nc,nc73745631,2022-06-15T11:55:21.992Z,"9km SSE of Portola Valley, CA",earthquake,0.42,0.81,0.11,9,automatic,nc,nc
+2022-06-15T11:47:42.780Z,37.7971649,-121.9568329,17.97,1.33,md,11,150,0.08629,0.07,nc,nc73745626,2022-06-15T11:58:10.269Z,"3km NE of San Ramon, CA",earthquake,0.64,0.8,0.16,5,automatic,nc,nc
 2022-06-15T11:42:45.270Z,37.2910004,-122.1949997,4.22,1.36,md,11,129,0.01329,0.15,nc,nc73745621,2022-06-15T11:53:11.238Z,"11km SW of Loyola, CA",earthquake,0.52,0.7,0.18,8,automatic,nc,nc
 2022-06-15T11:09:50.946Z,63.231,-151.7353,4.8,1.5,ml,,,,0.46,ak,ak0227mptf06,2022-06-15T11:11:54.512Z,"34 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-15T11:02:53.060Z,38.8073349,-122.7551651,0.8,1.13,md,20,108,0.007584,0.05,nc,nc73745616,2022-06-15T11:19:16.024Z,"3km WSW of Cobb, CA",earthquake,0.24,0.44,0.14,5,automatic,nc,nc
