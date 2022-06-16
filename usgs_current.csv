@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-16T19:30:34.028Z,61.7724,-150.685,43.7,1.1,ml,,,,0.59,ak,ak0227oi8p2n,2022-06-16T19:33:32.628Z,"27 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-06-16T19:22:10.140Z,38.1758,-117.8063,3.1,1.9,ml,12,109.65,0.126,0.1373,nn,nn00841032,2022-06-16T19:25:55.630Z,"35 km SE of Mina, Nevada",earthquake,,0.8,0.31,9,automatic,nn,nn
+2022-06-16T19:22:10.390Z,38.1738,-117.8149,7.7,1.8,ml,14,65.09,0.119,0.1193,nn,nn00841032,2022-06-16T19:43:36.457Z,"35 km SE of Mina, Nevada",earthquake,,2.3,0.21,4,reviewed,nn,nn
 2022-06-16T19:19:10.810Z,38.8273315,-122.8044968,1.52,0.65,md,17,39,0.01564,0.01,nc,nc73746386,2022-06-16T19:27:10.538Z,"7km NW of The Geysers, CA",earthquake,0.2,0.53,0.2,3,automatic,nc,nc
 2022-06-16T19:11:38.730Z,35.9448333,-117.6981667,3.13,0.2,ml,5,163,0.07881,0.03,ci,ci40285440,2022-06-16T19:27:31.138Z,"19km E of Little Lake, CA",earthquake,0.32,1.06,0.071,3,reviewed,ci,ci
 2022-06-16T19:00:30.490Z,33.8228333,-117.481,-0.48,1.85,ml,51,27,0.03045,0.22,ci,ci40285416,2022-06-16T19:23:34.478Z,"7km SSE of Home Gardens, CA",quarry blast,0.3,31.61,0.214,23,reviewed,ci,ci
