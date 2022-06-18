@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-18T05:28:41.170Z,38.8153343,-122.8219986,2.83,1.05,md,25,66,0.008553,0.02,nc,nc73746936,2022-06-18T05:45:14.794Z,"7km NW of The Geysers, CA",earthquake,0.23,0.45,0.15,5,automatic,nc,nc
-2022-06-18T05:25:57.063Z,-20.5982,169.7407,127.73,5.4,mww,,60,2.928,0.66,us,us7000hias,2022-06-18T05:48:02.270Z,"126 km SSE of Isangel, Vanuatu",earthquake,7.8,5.5,0.066,22,reviewed,us,us
+2022-06-18T05:25:57.063Z,-20.5982,169.7407,127.73,5.4,mww,,60,2.928,0.66,us,us7000hias,2022-06-18T05:55:49.180Z,"126 km SSE of Isangel, Vanuatu",earthquake,7.8,5.5,0.066,22,reviewed,us,us
 2022-06-18T05:13:40.923Z,62.4537,-151.3333,68.1,1.4,ml,,,,0.34,ak,ak0227rkvoy4,2022-06-18T05:16:35.437Z,"29 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-06-18T05:03:18.561Z,30.1394,-113.6582,10,5.1,mww,,161,1.363,0.52,us,us7000hiar,2022-06-18T05:52:21.040Z,"96 km WNW of La Libertad, Mexico",earthquake,6.4,1.9,0.056,31,reviewed,us,us
 2022-06-18T05:00:48.534Z,30.3693,-113.6349,10,4.8,mb,,106,1.199,0.54,us,us7000hial,2022-06-18T05:20:46.040Z,"100 km WSW of Plutarco Elías Calles (La Y Griega), Mexico",earthquake,2.2,1.9,0.039,201,reviewed,us,us
 2022-06-18T04:58:19.990Z,33.7028333,-117.3688333,8.24,1.42,ml,18,64,0.04531,0.21,ci,ci40286504,2022-06-18T05:01:53.416Z,"5km NW of Lake Elsinore, CA",earthquake,0.53,0.91,0.264,5,automatic,ci,ci
 2022-06-18T04:51:29.933Z,30.0892,-113.6961,10,5.2,mww,,152,1.373,0.94,us,us7000hiaj,2022-06-18T05:33:24.040Z,"98 km W of La Libertad, Mexico",earthquake,3.3,1.9,0.034,85,reviewed,us,us
