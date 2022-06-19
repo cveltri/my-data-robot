@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T12:44:09.396Z,61.8435,-149.9235,33,1.5,ml,,,,0.4,ak,ak0227rp8ay3,2022-06-18T12:45:30.325Z,"12 km NNE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-18T12:43:34.404Z,31.09252782,-103.2611755,2.840942383,3.2,ml,27,59,0.03346519118,0.3,tx,tx2022lvxs,2022-06-18T13:07:23.320Z,"25 km SW of Coyanosa, Texas",earthquake,1.007675706,1.385946844,0.1,13,reviewed,tx,tx
 2022-06-18T12:23:48.728Z,61.7317,-149.7662,34.7,1.5,ml,,,,0.31,ak,ak0227rp3vy0,2022-06-18T12:25:09.370Z,"11 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-18T11:51:06.090Z,38.8019981,-122.7764969,3.57,0.63,md,18,70,0.01171,0.02,nc,nc73747031,2022-06-18T12:19:17.009Z,"3km NNW of The Geysers, CA",earthquake,0.33,0.77,0.23,4,automatic,nc,nc
