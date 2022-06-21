@@ -292,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T14:54:20.510Z,33.0058333,-116.2188333,6.52,0.9,ml,23,104,0.08752,0.23,ci,ci40287848,2022-06-20T14:57:47.658Z,"17km SSW of Ocotillo Wells, CA",earthquake,0.39,1.37,0.113,14,automatic,ci,ci
 2022-06-20T14:52:53.453Z,60.9787,-148.0757,4.6,1.2,ml,,,,0.41,ak,ak0227v1jo9t,2022-06-20T14:54:48.672Z,"40 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-20T14:52:05.580Z,19.1856670379639,-155.484832763672,33.0900001525879,2.25,ml,44,71,,0.100000001,hv,hv73050032,2022-06-21T13:18:58.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.46,0.649999976,3.71,16,automatic,hv,hv
-2022-06-20T14:50:23.067Z,59.9017,-151.766,33.2,1.7,ml,,,,0.5,ak,ak0227v1j6hu,2022-06-20T14:53:11.132Z,"5 km SSW of Happy Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-20T14:47:09.750Z,37.635334,-118.8846664,-0.5,2.31,md,16,92,0.01323,0.02,nc,nc73748161,2022-06-20T16:06:10.888Z,"8km E of Mammoth Lakes, CA",earthquake,0.35,0.24,0.14,16,automatic,nc,nc
