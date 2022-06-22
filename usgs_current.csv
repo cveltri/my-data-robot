@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-22T21:45:56.690Z,38.8318329,-122.8153305,1.33,1.2,md,25,51,0.009373,0.02,nc,nc73749686,2022-06-22T21:47:31.222Z,"8km NW of The Geysers, CA",earthquake,0.17,0.33,0.05,5,automatic,nc,nc
+2022-06-22T21:42:42.780Z,62.0641,-151.9266,102,1.8,ml,,,,0.55,ak,ak0227ygq8hl,2022-06-22T21:45:25.487Z,"28 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-22T21:19:03.530Z,19.2028331756592,-155.387496948242,32.8400001525879,1.88999999,md,33,166,,0.100000001,hv,hv73052267,2022-06-22T21:22:11.360Z,"9 km E of Pāhala, Hawaii",earthquake,0.8,0.790000021,1.15999997,8,automatic,hv,hv
 2022-06-22T21:10:42.720Z,33.4891667,-116.7525,9.14,0.64,ml,25,33,0.07149,0.25,ci,ci40289344,2022-06-22T21:14:21.306Z,"10km SW of Anza, CA",earthquake,0.41,1.11,0.201,19,automatic,ci,ci
 2022-06-22T21:02:44.064Z,23.6027,121.5582,10,4.1,mb,,108,0.318,0.83,us,us7000hjer,2022-06-22T21:16:59.040Z,"41 km S of Hualien City, Taiwan",earthquake,1.7,1.9,0.135,15,reviewed,us,us
