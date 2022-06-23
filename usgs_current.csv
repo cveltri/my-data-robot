@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-23T15:46:15.429Z,63.7172,-152.9159,0,0.9,ml,,,,0.9,ak,ak022800ps4x,2022-06-23T15:49:27.215Z,"35 km WSW of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-23T15:33:58.881Z,63.254,-151.0937,0,1.2,ml,,,,0.69,ak,ak022800n36e,2022-06-23T15:36:18.737Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-23T15:25:23.500Z,38.8443336,-122.8174973,1.11,0.86,md,13,88,0.01128,0.03,nc,nc73749986,2022-06-23T15:42:17.784Z,"8km WNW of Cobb, CA",earthquake,0.25,0.58,,1,automatic,nc,nc
 2022-06-23T15:16:09.332Z,65.0373,-151.4133,15.3,0.9,ml,,,,0.4,ak,ak022800jc6d,2022-06-23T15:19:16.163Z,"34 km ESE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T15:07:01.353Z,61.389,-150.0683,32.2,1.6,ml,,,,0.34,ak,ak022800he47,2022-06-23T15:08:53.436Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-23T14:58:56.317Z,-6.3348,130.1574,154.32,4.9,mb,,53,1.99,0.84,us,us7000hjm6,2022-06-23T15:13:35.040Z,"297 km WSW of Tual, Indonesia",earthquake,6.8,7.6,0.078,52,reviewed,us,us
 2022-06-23T14:58:36.460Z,35.781,-117.5691667,9.56,0.8,ml,10,166,0.04162,0.17,ci,ci40289704,2022-06-23T15:02:11.380Z,"15km W of Searles Valley, CA",earthquake,0.55,0.59,0.396,4,automatic,ci,ci
-2022-06-23T14:57:58.130Z,38.8481674,-122.8180008,1.6,0.37,md,14,92,0.007712,0.02,nc,nc73749976,2022-06-23T15:15:19.615Z,"9km WNW of Cobb, CA",earthquake,0.33,0.68,,1,automatic,nc,nc
+2022-06-23T14:57:58.130Z,38.8481674,-122.8180008,1.6,0.37,md,14,92,0.007712,0.02,nc,nc73749976,2022-06-23T15:51:17.844Z,"9km WNW of Cobb, CA",earthquake,0.33,0.68,,1,automatic,nc,nc
 2022-06-23T14:57:00.682Z,57.4812,-155.1943,79.8,2.7,ml,,,,0.43,ak,ak0228006o9o,2022-06-23T14:59:56.676Z,"45 km WSW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-23T14:38:27.990Z,36.0023346,-120.5693359,4.94,1.11,md,15,92,0.02746,0.06,nc,nc73749966,2022-06-23T15:30:10.704Z,"17km NW of Parkfield, CA",earthquake,0.44,0.65,0.1,6,automatic,nc,nc
 2022-06-23T14:29:46.512Z,-17.7021,-69.746,151.17,4.9,mb,,88,0.277,0.88,us,us7000hjlu,2022-06-23T15:20:28.040Z,"24 km ENE of Palca, Peru",earthquake,7.2,5.6,0.052,117,reviewed,us,us
@@ -124,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T03:01:56.572Z,58.5951,-152.3751,35.7,1.7,ml,,,,0.72,ak,ak0227ztb0tl,2022-06-23T03:07:43.037Z,"67 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:59:04.880Z,39.4281667,-110.2976667,-1.67,1.45,ml,8,199,0.02163,0.15,uu,uu60503157,2022-06-23T12:47:07.380Z,"15 km SSE of Sunnyside, Utah",earthquake,1.72,1.4,0.158,3,reviewed,uu,uu
 2022-06-23T02:29:26.920Z,33.393,-116.4378333,11.39,1.27,ml,66,39,0.08871,0.2,ci,ci40289480,2022-06-23T15:31:05.590Z,"16km NNW of Borrego Springs, CA",earthquake,0.17,0.45,0.137,42,reviewed,ci,ci
-2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"33 km N of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:21:23.740Z,39.4328333,-110.2983333,-2.06,1.78,ml,10,198,0.02249,0.15,uu,uu60503152,2022-06-23T12:18:12.930Z,"15 km SSE of Sunnyside, Utah",earthquake,1.03,1.19,0.14,5,reviewed,uu,uu
 2022-06-23T02:19:44.200Z,19.2014999389648,-155.525497436523,-0.610000014305115,2.27,ml,33,65,,0.270000011,hv,hv73052497,2022-06-23T02:25:14.600Z,"4 km W of Pāhala, Hawaii",earthquake,0.45,0.230000004,4.32,5,automatic,hv,hv
 2022-06-23T02:16:58.100Z,33.1838333,-115.6125,2.56,1.41,ml,9,95,0.006871,0.15,ci,ci40289472,2022-06-23T15:13:43.015Z,"11km SW of Niland, CA",earthquake,0.55,0.24,0.155,4,reviewed,ci,ci
