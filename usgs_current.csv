@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T09:31:21.675Z,46.9403,152.705,70.43,4.4,mb,,183,6.808,0.58,us,us7000hj9m,2022-06-22T09:56:41.040Z,"Kuril Islands",earthquake,13.4,9.4,0.134,16,reviewed,us,us
 2022-06-22T09:30:29.383Z,37.1462,-116.6097,6.6,-0.3,ml,7,194.13,0.089,0.1764,nn,nn00841496,2022-06-23T02:39:51.712Z,"29 km NNE of Beatty, Nevada",earthquake,,3.1,1.07,5,reviewed,nn,nn
 2022-06-22T09:30:19.538Z,23.8985,123.5481,35.84,4.6,mb,,172,0.748,0.8,us,us7000hj9p,2022-06-22T10:04:31.040Z,"79 km SW of Ishigaki, Japan",earthquake,6.8,8,0.137,16,reviewed,us,us
-2022-06-22T09:23:58.080Z,38.1553,-117.9601,10.1,0.6,ml,13,140.45,0.016,0.1417,nn,nn00841447,2022-06-22T18:46:10.021Z,"29 km SSE of Mina, Nevada",earthquake,,1.1,0.3,4,reviewed,nn,nn
-2022-06-22T09:19:03.760Z,39.4348333,-110.3065,-1.69,2.3,ml,16,118,0.01796,0.18,uu,uu60503052,2022-06-22T11:32:51.230Z,"14 km SSE of Sunnyside, Utah",earthquake,0.73,0.76,0.096,17,reviewed,uu,uu
