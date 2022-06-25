@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-25T22:52:28.640Z,33.4609985,-116.465332,11.04,0.98,ml,20,67,0.1108,0.13,ci,ci40291392,2022-06-25T22:54:33.786Z,"22km ESE of Anza, CA",earthquake,0.42,1.15,0.212,4,automatic,ci,ci
 2022-06-25T22:35:15.970Z,33.6235,-116.6733333,12.14,0.56,ml,22,70,0.06699,0.18,ci,ci40291376,2022-06-25T22:38:52.263Z,"8km N of Anza, CA",earthquake,0.38,0.65,0.227,15,automatic,ci,ci
 2022-06-25T22:16:17.760Z,38.8058319,-122.8016663,2.34,0.84,md,8,95,0.00541,0.01,nc,nc73750981,2022-06-25T22:26:11.058Z,"5km NW of The Geysers, CA",earthquake,0.56,1.42,,1,automatic,nc,nc
 2022-06-25T22:14:19.436Z,38.1105,-118.2426,0,0.9,ml,9,194.86,0.25,0.1464,nn,nn00841721,2022-06-25T22:18:08.378Z,"33 km SSW of Mina, Nevada",earthquake,,76.7,0.25,6,automatic,nn,nn
