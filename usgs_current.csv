@@ -238,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T06:32:25.740Z,32.7013333,-115.4501667,11.22,2.47,ml,25,54,0.06969,0.27,ci,ci40291608,2022-06-26T06:43:25.550Z,"5km ENE of Calexico, CA",earthquake,0.56,0.98,0.11,26,automatic,ci,ci
 2022-06-26T06:29:31.116Z,60.8747,-150.97,55.2,1.5,ml,,,,0.48,ak,ak02284tvb87,2022-06-26T06:33:27.177Z,"16 km WSW of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-26T06:27:14.140Z,37.6355019,-118.8751678,-0.3,1.32,md,8,99,0.01912,0.02,nc,nc73751096,2022-06-26T09:16:11.876Z,"9km E of Mammoth Lakes, CA",earthquake,0.35,0.67,0.03,8,automatic,nc,nc
-2022-06-26T06:03:29.050Z,17.983,-66.8521666666667,15.48,2.57,md,18,147,,0.27,pr,pr71356033,2022-06-26T06:30:45.080Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.69,0.56,0.11891238880555,7,reviewed,pr,pr
-2022-06-26T06:01:54.782Z,61.0005,-147.2612,23.5,1.4,ml,,,,0.41,ak,ak02284tpcza,2022-06-26T06:04:00.657Z,"35 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
