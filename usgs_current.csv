@@ -197,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T15:16:16.199Z,64.7982,-149.0087,19.1,1.1,ml,,,,0.5,ak,ak02284z5e6r,2022-06-26T15:19:54.893Z,"22 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-26T15:13:03.661Z,60.1384,-153.3609,148.1,1.7,ml,,,,0.15,ak,ak02284z4q2m,2022-06-26T15:22:48.040Z,"53 km E of Port Alsworth, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2022-06-26T15:05:32.670Z,38.8218346,-122.7976685,2.54,1.18,md,28,30,0.009815,0.02,nc,nc73751321,2022-06-26T16:56:10.428Z,"6km NW of The Geysers, CA",earthquake,0.2,0.4,0.22,6,automatic,nc,nc
-2022-06-26T14:58:38.730Z,47.519333333333336,-122.62966666666667,23.9,0.43,md,5,235,0.07924,0.12,uw,uw61846462,2022-06-26T15:48:49.620Z,"0 km SW of East Port Orchard, Washington",earthquake,1.08,0.79,0.1618589837394484,5,reviewed,uw,uw
-2022-06-26T14:54:33.670Z,37.5156667,-118.7715,5.37,0.79,md,13,82,0.08722,0.02,nc,nc73751316,2022-06-26T21:21:10.003Z,"10km WSW of Toms Place, CA",earthquake,0.41,1.16,0.262,11,reviewed,nc,nc
