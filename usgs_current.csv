@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T09:03:06.790Z,36.8538333,-121.2978333,8.25,1.05,md,34,70,0.04851,0.08,nc,nc73751181,2022-06-26T21:06:13.910Z,"7km NNE of Tres Pinos, CA",earthquake,0.16,0.41,0.236,27,reviewed,nc,nc
 2022-06-26T09:01:21.420Z,37.6275,-118.8726667,0.18,-0.14,md,7,130,0.01147,0.02,nc,nc73751176,2022-06-26T20:31:33.375Z,"9km E of Mammoth Lakes, CA",earthquake,0.45,0.4,0.192,5,reviewed,nc,nc
 2022-06-26T08:59:11.290Z,37.6331673,-118.87117,-0.34,1.13,md,8,147,0.01558,0.03,nc,nc73751171,2022-06-26T11:51:15.541Z,"10km E of Mammoth Lakes, CA",earthquake,0.34,0.58,0.11,8,automatic,nc,nc
-2022-06-26T08:58:04.280Z,35.6431667,-118.3205,7.39,0.89,ml,18,85,0.05779,0.17,ci,ci40291632,2022-06-26T13:16:22.920Z,"14km ENE of Lake Isabella, CA",earthquake,0.36,0.77,0.15,11,reviewed,ci,ci
-2022-06-26T08:57:51.120Z,37.6323318,-118.871666,-0.13,1.55,md,10,144,0.01501,0.03,nc,nc73751166,2022-06-26T11:19:18.280Z,"10km E of Mammoth Lakes, CA",earthquake,0.35,0.32,0.12,10,automatic,nc,nc
