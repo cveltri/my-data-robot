@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T23:13:44.113Z,26.8954,55.3149,10,4.2,mb,63,94,2.1,0.62,us,us6000hz9l,2022-07-02T02:03:50.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.076,48,reviewed,us,us
 2022-07-01T23:06:56.382Z,66.9138,-149.2443,0.2,1.4,ml,,,,0.84,ak,ak0228ddjjf3,2022-07-01T23:10:07.330Z,"55 km SE of Coldfoot, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-01T22:48:30.571Z,39.0399,-118.8831,12.5,1.1,ml,14,68.7,0.283,0.1564,nn,nn00842105,2022-07-02T02:40:32.975Z,"11 km NNW of Schurz, Nevada",earthquake,,6.5,0.18,3,reviewed,nn,nn
-2022-07-01T22:43:50.392Z,26.8649,55.185,10,4.2,mb,45,97,2.12,0.83,us,us6000hz9h,2022-07-02T00:57:24.355Z,"45 km NE of Bandar-e Lengeh, Iran",earthquake,6,1.9,0.089,35,reviewed,us,us
