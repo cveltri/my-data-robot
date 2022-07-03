@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T20:26:24.875Z,63.8587,-148.7356,8.4,1.1,ml,,,,0.64,ak,ak0228ezet07,2022-07-02T20:28:31.809Z,"11 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-02T20:17:47.010Z,17.9648333333333,-66.9626666666667,8.36,2.01,md,5,192,,0.08,pr,pr71357203,2022-07-02T20:35:49.300Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.54,1.13,0.251422166030135,2,reviewed,pr,pr
 2022-07-02T20:05:43.390Z,40.5656667,-122.2465,13.67,1.25,md,10,89,0.08991,0.07,nc,nc73753631,2022-07-03T00:07:16.356Z,"1km WNW of Palo Cedro, CA",earthquake,1.43,0.55,0.08,8,reviewed,nc,nc
-2022-07-02T19:49:11.900Z,36.0358333,-120.597,3.37,0.29,md,14,117,0.03291,0.05,nc,nc73753626,2022-07-02T21:12:10.316Z,"21km NW of Parkfield, CA",earthquake,0.41,0.99,0.17,6,reviewed,nc,nc
-2022-07-02T19:46:51.530Z,35.8925,-120.441,10.17,0.91,md,26,68,0.01517,0.06,nc,nc73753621,2022-07-02T21:40:15.479Z,"1km SW of Parkfield, CA",earthquake,0.31,0.3,0.321,12,reviewed,nc,nc
