@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-04T21:13:02.310Z,38.3333321,-121.6443329,16.73,1.61,md,8,141,0.4311,0.09,nc,nc73754476,2022-07-04T21:23:11.661Z,"15km NW of Walnut Grove, CA",earthquake,1.73,2.88,,1,automatic,nc,nc
+2022-07-04T21:13:02.310Z,38.3333321,-121.6443329,16.73,1.61,md,8,141,0.4311,0.09,nc,nc73754476,2022-07-04T21:35:15.728Z,"15km NW of Walnut Grove, CA",earthquake,1.73,2.88,,1,automatic,nc,nc
 2022-07-04T21:11:31.939Z,60.1435,-153.2717,151.7,5,ml,,,,0.65,ak,ak0228iazqeb,2022-07-04T21:34:00.489Z,"58 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-07-04T21:09:50.340Z,19.2474994659424,-155.404006958008,30.8400001525879,1.97000003,md,29,130,,0.180000007,hv,hv73065027,2022-07-04T21:13:06.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,1.00999999,0.899999976,7,automatic,hv,hv
 2022-07-04T21:09:06.520Z,38.7454987,-122.7368317,0.78,0.46,md,9,153,0.009396,0.04,nc,nc73754471,2022-07-04T21:24:12.670Z,"4km SSE of The Geysers, CA",earthquake,0.35,0.44,0.12,2,automatic,nc,nc
