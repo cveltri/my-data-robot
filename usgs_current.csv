@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T19:33:51.790Z,33.242,-116.104,3.41,1.06,ml,27,54,0.126,0.26,ci,ci40299296,2022-07-07T19:37:30.906Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.37,1.5,0.136,23,automatic,ci,ci
 2022-07-07T19:30:30.550Z,33.8681667,-117.5073333,2.81,1.41,ml,19,89,0.07247,0.19,ci,ci40299288,2022-07-07T19:34:12.891Z,"2km SE of Home Gardens, CA",quarry blast,0.46,0.57,0.427,34,automatic,ci,ci
 2022-07-07T19:22:32.810Z,33.239,-116.104,4.26,1.8,ml,51,36,0.09886,0.23,ci,ci40299280,2022-07-07T19:33:19.590Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.24,1.01,0.142,28,automatic,ci,ci
 2022-07-07T19:04:01.590Z,35.8563333,-117.6755,13.5,1.09,ml,8,90,0.07521,0.13,ci,ci40299264,2022-07-07T19:07:44.870Z,"23km ESE of Little Lake, CA",earthquake,0.6,1.34,0.25,6,automatic,ci,ci
@@ -29,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T16:37:02.090Z,38.230999,-119.0743332,14.94,2.84,md,28,96,0.311,0.15,nc,nc73755936,2022-07-07T19:15:10.928Z,"6km WNW of Bodie, CA",earthquake,0.31,1.25,0.25,23,automatic,nc,nc
 2022-07-07T16:33:00.520Z,37.354,-118.5505,10.31,0.18,md,5,123,0.0102,0.02,nc,nc73755931,2022-07-07T19:07:10.882Z,"8km SSE of Round Valley, CA",earthquake,0.61,0.45,0.096,3,reviewed,nc,nc
 2022-07-07T16:30:35.290Z,38.7841682,-122.7320023,1.88,0.7,md,8,114,0.003806,0.01,nc,nc73755926,2022-07-07T17:23:28.251Z,"2km ENE of The Geysers, CA",earthquake,0.38,0.83,0.17,2,automatic,nc,nc
+2022-07-07T16:20:12.200Z,19.4578333333333,-155.596833333333,-1.52,1.08,md,8,74,,0.12,hv,hv73068002,2022-07-07T19:37:26.680Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.24,0.113524972166511,6,reviewed,hv,hv
 2022-07-07T16:14:21.640Z,38.7941666,-122.7511673,2.42,0.86,md,9,90,0.009283,0.01,nc,nc73755911,2022-07-07T16:23:10.880Z,"2km NNE of The Geysers, CA",earthquake,0.34,0.96,,1,automatic,nc,nc
 2022-07-07T16:13:34.814Z,38.1477,-118.0066,5.3,2,ml,16,89.22,0.038,0.1064,nn,nn00842369,2022-07-07T16:44:03.345Z,"28 km SSE of Mina, Nevada",earthquake,,1.5,0.33,5,reviewed,nn,nn
 2022-07-07T16:05:27.397Z,5.3635,-82.6303,10,4.6,mb,64,149,4.836,0.91,us,us6000i0m6,2022-07-07T16:35:48.040Z,"296 km SW of Arenas, Panama",earthquake,8.5,1.9,0.049,124,reviewed,us,us
