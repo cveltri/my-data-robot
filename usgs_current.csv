@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-08T11:48:09.007Z,68.9016,-145.4709,8.9,3,ml,,,,0.64,ak,ak0228oreo1w,2022-07-08T11:52:21.087Z,"86 km N of Arctic Village, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-07-08T11:48:09.007Z,68.9016,-145.4709,8.9,3,ml,,,,0.64,ak,ak0228oreo1w,2022-07-08T11:56:41.040Z,"86 km N of Arctic Village, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-08T11:45:43.590Z,37.564167,-118.8636703,3.59,1.94,md,20,99,0.03769,0.02,nc,nc73756301,2022-07-08T11:53:10.953Z,"13km SE of Mammoth Lakes, CA",earthquake,0.4,0.75,0.15,21,automatic,nc,nc
 2022-07-08T11:05:53.683Z,59.6457,-152.7666,80.5,1.5,ml,,,,0.28,ak,ak0228or5jpk,2022-07-08T11:08:08.721Z,"54 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-08T10:58:31.590Z,36.0723333,-117.8631667,3.15,0.93,ml,10,137,0.04565,0.09,ci,ci40299696,2022-07-08T11:02:11.657Z,"8km ENE of Coso Junction, CA",earthquake,0.34,0.6,0.279,8,automatic,ci,ci
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T12:28:21.550Z,19.1631660461426,-155.461334228516,31.3799991607666,1.84000003,md,36,124,,0.129999995,hv,hv73067812,2022-07-07T12:39:20.288Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.55,0.829999983,0.620000005,5,automatic,hv,hv
 2022-07-07T12:18:13.492Z,31.66015968,-104.2639799,5.128955078,2.3,ml,13,66,0.1944853333,0.2,tx,tx2022nepl,2022-07-07T19:34:36.791Z,"58 km S of Whites City, New Mexico",earthquake,1.5060843180000003,3.294768917,0.2,6,reviewed,tx,tx
 2022-07-07T12:03:16.896Z,31.66177338,-104.5740284,5.128955078,2,ml,10,81,0.06283096396,0.2,tx,tx2022neoy,2022-07-07T19:55:09.796Z,"59 km SSW of Whites City, New Mexico",earthquake,2.149096223,1.925913634,0.1,6,reviewed,tx,tx
-2022-07-07T11:53:39.812Z,61.8004,-149.9249,112.4,1.1,ml,,,,1.05,ak,ak0228n3wgil,2022-07-07T11:55:43.879Z,"8 km NE of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
