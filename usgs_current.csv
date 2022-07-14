@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-14T11:26:20.570Z,38.8255005,-122.8539963,2.62,0.36,md,11,100,0.003036,0.01,nc,nc73758536,2022-07-14T11:27:56.429Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.73,,1,automatic,nc,nc
+2022-07-14T11:36:39.540Z,33.2323341,-116.1021652,8.35,1.47,ml,49,53,0.09424,0.22,ci,ci40303608,2022-07-14T11:38:59.014Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.23,1.13,0.102,7,automatic,ci,ci
+2022-07-14T11:26:20.570Z,38.8255005,-122.8539963,2.62,0.36,md,11,100,0.003036,0.01,nc,nc73758536,2022-07-14T11:35:10.926Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.73,,1,automatic,nc,nc
 2022-07-14T11:17:06.133Z,38.145,-118.0192,5.7,1.5,ml,15,139.86,0.047,0.0973,nn,nn00842864,2022-07-14T11:20:47.390Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.22,11,automatic,nn,nn
 2022-07-14T11:07:48.594Z,64.4709,-147.962,3.4,1,ml,,,,0.41,ak,ak0228yoe1pn,2022-07-14T11:10:19.210Z,"38 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-14T10:39:39.030Z,35.7325,-117.6231667,2.59,0.79,ml,8,123,0.08564,0.19,ci,ci40303592,2022-07-14T10:43:06.656Z,"13km NNE of Ridgecrest, CA",earthquake,0.86,1.47,0.311,6,automatic,ci,ci
