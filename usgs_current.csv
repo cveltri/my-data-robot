@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-15T07:48:28.630Z,33.1144981,-116.6405029,9.55,1.49,ml,14,117,0.04917,0.25,ci,ci40063687,2022-07-15T07:50:33.864Z,"5km NW of Julian, CA",earthquake,0.62,1.43,0.376,9,automatic,ci,ci
 2022-07-15T07:39:30.128Z,38.5893,-119.437,3.5,1.3,ml,12,136.92,0.085,0.0978,nn,nn00842946,2022-07-15T07:42:39.457Z,"6 km ENE of Coleville, California",earthquake,,1.5,0.24,9,automatic,nn,nn
 2022-07-15T07:37:54.080Z,33.784,-116.1258333,2.7,1.13,ml,31,90,0.0807,0.21,ci,ci40063679,2022-07-15T07:41:37.220Z,"11km NE of Indio, CA",earthquake,0.3,0.6,0.125,25,automatic,ci,ci
 2022-07-15T07:36:33.670Z,38.7791672,-122.7243347,1.77,0.21,md,8,77,0.0105,0.01,nc,nc73758801,2022-07-15T07:45:10.172Z,"3km E of The Geysers, CA",earthquake,0.34,0.76,0.17,2,automatic,nc,nc
