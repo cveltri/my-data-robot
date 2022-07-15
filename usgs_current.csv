@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-15T19:40:49.790Z,38.574501,-119.4628296,5.85,3.13,ml,11,123,0.04614,0.02,nc,nc73758971,2022-07-15T19:42:51.974Z,"7km NNE of Walker, CA",earthquake,0.39,0.42,0.439,22,automatic,nc,nc
+2022-07-15T19:40:49.790Z,38.574501,-119.4628296,5.85,3.13,ml,11,123,0.04614,0.02,nc,nc73758971,2022-07-15T19:48:18.392Z,"7km NNE of Walker, CA",earthquake,0.39,0.42,0.439,22,automatic,nc,nc
 2022-07-15T18:45:09.250Z,38.786335,-122.7245026,1.5,1.1,md,16,84,0.01004,0.04,nc,nc73758966,2022-07-15T19:01:17.145Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.5,0.1,4,automatic,nc,nc
 2022-07-15T18:42:06.416Z,57.3486,-154.6531,38.6,2,ml,,,,0.71,ak,ak02290gau71,2022-07-15T18:44:37.259Z,"Kodiak Island region, Alaska",earthquake,,11.5,,,automatic,ak,ak
 2022-07-15T18:36:54.935Z,59.8095,-153.2234,115,1.6,ml,,,,0.3,ak,ak02290g9np1,2022-07-15T18:38:53.159Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T19:55:15.520Z,19.2121658325195,-155.407669067383,34.0200004577637,1.94000006,md,29,149,,0.140000001,hv,hv73075267,2022-07-14T19:58:27.390Z,"7 km E of Pāhala, Hawaii",earthquake,0.74,1.12,0.75,8,automatic,hv,hv
 2022-07-14T19:50:55.800Z,33.2725,-115.9831667,4,1.64,ml,43,73,0.09885,0.24,ci,ci40063183,2022-07-14T20:32:36.364Z,"4km SW of Salton City, CA",earthquake,0.3,1.46,0.196,27,automatic,ci,ci
 2022-07-14T19:50:24.730Z,18.0288333333333,-66.7688333333333,12.35,2.42,md,25,67,,0.15,pr,pr71359508,2022-07-14T20:07:06.040Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.25,0.29,0.150775920443884,10,reviewed,pr,pr
-2022-07-14T19:46:07.660Z,35.773,-117.5766667,10.07,0.73,ml,8,160,0.04589,0.13,ci,ci40063175,2022-07-14T22:10:46.798Z,"16km W of Searles Valley, CA",earthquake,0.44,0.61,0.134,2,reviewed,ci,ci
