@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T18:48:04.670Z,33.281,-115.9896667,1.04,0.86,ml,17,87,0.1077,0.34,ci,ci40065423,2022-07-17T18:51:40.451Z,"4km WSW of Salton City, CA",earthquake,0.89,31.61,0.188,12,automatic,ci,ci
 2022-07-17T18:47:03.740Z,38.8173332,-122.8239975,2.39,0.9,md,22,51,0.009372,0.02,nc,nc73759911,2022-07-17T19:25:12.594Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.2,4,automatic,nc,nc
 2022-07-17T18:46:47.950Z,38.8173332,-122.8246689,2.29,0.8,md,19,51,0.009158,0.03,nc,nc73759906,2022-07-17T19:13:12.505Z,"7km NW of The Geysers, CA",earthquake,0.27,0.44,0.31,4,automatic,nc,nc
-2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T18:44:36.781Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,automatic,ci,ci
+2022-07-17T18:40:53.810Z,32.9176667,-116.2421667,6.8,0.95,ml,22,79,0.0633,0.21,ci,ci40065407,2022-07-17T19:51:27.141Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.44,0.79,0.147,10,reviewed,ci,ci
 2022-07-17T18:18:39.240Z,33.2726669,-115.9781647,6.18,3.38,ml,111,21,0.09891,0.23,ci,ci40065399,2022-07-17T19:08:19.292Z,"4km SW of Salton City, CA",earthquake,0.2,1.14,0.303,19,automatic,ci,ci
 2022-07-17T18:17:24.488Z,59.8282,-153.386,135.4,1.8,ml,,,,0.46,ak,ak02293r87qd,2022-07-17T18:20:51.213Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T18:03:21.000Z,33.9281667,-116.7528333,16.6,0.57,ml,20,100,0.1014,0.21,ci,ci40065391,2022-07-17T18:06:54.749Z,"3km ENE of Cabazon, CA",earthquake,0.58,1.38,0.113,14,automatic,ci,ci
@@ -19,8 +19,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T17:38:02.550Z,33.5111667,-116.4458333,7.09,0.29,ml,12,193,0.02078,0.17,ci,ci40065383,2022-07-17T17:41:29.454Z,"21km SW of La Quinta, CA",earthquake,0.64,1.12,0.067,5,automatic,ci,ci
 2022-07-17T17:36:24.678Z,63.2092,-143.3382,0,1.6,ml,,,,0.75,ak,ak02293qquqr,2022-07-17T17:38:21.622Z,"19 km S of Tanacross, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-17T17:25:53.030Z,38.0383339,-118.6965027,2.67,2.05,md,19,159,0.2608,0.07,nc,nc73759876,2022-07-17T19:30:10.622Z,"34km SSW of Qualeys Camp, NV",earthquake,0.59,9.58,0.19,15,automatic,nc,nc
-2022-07-17T17:19:56.050Z,35.5078333,-118.3935,7.66,1.52,ml,20,92,0.168,0.18,ci,ci40065375,2022-07-17T17:23:36.417Z,"13km SE of Bodfish, CA",earthquake,0.33,1.88,0.22,24,automatic,ci,ci
-2022-07-17T17:15:46.000Z,33.683,-116.716,14.14,0.23,ml,10,158,0.02814,0.11,ci,ci40065367,2022-07-17T17:19:12.394Z,"6km S of Idyllwild, CA",earthquake,0.89,1.25,0.116,5,automatic,ci,ci
+2022-07-17T17:19:56.050Z,35.5078333,-118.3935,7.66,1.52,ml,20,92,0.168,0.18,ci,ci40065375,2022-07-17T19:52:17.867Z,"13km SE of Bodfish, CA",earthquake,0.33,1.88,0.22,24,reviewed,ci,ci
+2022-07-17T17:15:46.000Z,33.683,-116.716,14.14,0.23,ml,10,158,0.02814,0.11,ci,ci40065367,2022-07-17T19:52:04.659Z,"6km S of Idyllwild, CA",earthquake,0.89,1.25,0.116,5,reviewed,ci,ci
 2022-07-17T17:08:46.440Z,38.8274994,-122.7971649,2.55,0.73,md,12,59,0.01088,0.01,nc,nc73759871,2022-07-17T17:36:11.871Z,"6km W of Cobb, CA",earthquake,0.32,1.16,0.14,2,automatic,nc,nc
 2022-07-17T17:07:04.450Z,38.7948341,-122.8171692,2.83,0.56,md,12,102,0.01279,0.03,nc,nc73759861,2022-07-17T17:25:12.799Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.96,0.35,2,automatic,nc,nc
 2022-07-17T17:06:50.716Z,68.7698,-145.659,0,2.9,ml,,,,0.73,ak,ak02293qkh9m,2022-07-17T18:47:36.040Z,"71 km N of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T17:03:59.210Z,19.1631660461426,-155.469329833984,33.6300010681152,1.88,md,35,163,,0.109999999,hv,hv73078117,2022-07-17T17:07:05.300Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.6,0.810000002,0.829999983,14,automatic,hv,hv
 2022-07-17T17:01:03.820Z,48.4125,-121.75266666666667,13.36,1.6600000000000001,ml,15,71,0.1352,0.16,uw,uw61862886,2022-07-17T17:12:38.970Z,"14 km SW of Rockport, Washington",earthquake,0.32,0.96,0.11391187080499632,10,reviewed,uw,uw
 2022-07-17T16:53:22.106Z,13.982,-89.7843,8.22,4.2,mb,51,131,0.079,1.07,us,us6000i3a8,2022-07-17T19:02:53.040Z,"El Salvador",earthquake,9.3,10.4,0.08,43,reviewed,us,us
-2022-07-17T16:48:58.550Z,33.2421667,-116.6491667,11.35,0.8,ml,26,49,0.04293,0.15,ci,ci40065351,2022-07-17T16:52:29.327Z,"5km SSW of Warner Springs, CA",earthquake,0.3,0.5,0.126,19,automatic,ci,ci
+2022-07-17T16:48:58.550Z,33.2421667,-116.6491667,11.35,0.8,ml,26,49,0.04293,0.15,ci,ci40065351,2022-07-17T19:52:21.070Z,"5km SSW of Warner Springs, CA",earthquake,0.3,0.5,0.126,19,reviewed,ci,ci
 2022-07-17T16:41:43.355Z,56.5179,-156.4649,58.2,3.2,ml,,,,0.49,ak,ak02293q6iwe,2022-07-17T19:04:53.040Z,"122 km E of Chignik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-07-17T16:40:34.780Z,73.3373,7.6918,10,4.6,mb,51,90,6.826,1.12,us,us6000i3a5,2022-07-17T18:16:49.040Z,"Greenland Sea",earthquake,10.9,1.9,0.068,64,reviewed,us,us
 2022-07-17T16:32:59.505Z,64.7822,-150.5974,17.5,1.5,ml,,,,0.8,ak,ak02293q4mym,2022-07-17T16:35:22.875Z,"24 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
