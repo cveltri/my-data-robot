@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-18T19:09:41.779Z,60.7771,-147.2699,17.7,1.9,ml,,,,0.46,ak,ak02295fbbfl,2022-07-18T19:18:52.567Z,"33 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-18T19:00:06.300Z,35.5128333,-118.3851667,4.31,1.34,ml,19,69,0.1662,0.16,ci,ci40065927,2022-07-18T19:03:42.414Z,"13km SE of Bodfish, CA",earthquake,0.32,0.94,0.14,19,automatic,ci,ci
-2022-07-18T18:46:16.996Z,63.5814,-149.0652,0,2.2,ml,,,,0.86,ak,ak02295exre3,2022-07-18T18:48:13.909Z,"18 km SSW of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-18T18:46:16.996Z,63.5814,-149.0652,0,2.2,ml,,,,0.86,ak,ak02295exre3,2022-07-18T19:27:44.040Z,"18 km SSW of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-18T18:44:42.360Z,17.9395,-66.9681666666667,8.64,1.98,md,5,226,,0.11,pr,pr71360198,2022-07-18T18:54:46.730Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.7,1.23,0.0820130196930571,5,reviewed,pr,pr
 2022-07-18T18:40:33.209Z,78.5958,6.0872,10,5.9,mww,115,55,1.192,0.93,us,us6000i3hy,2022-07-18T19:19:19.834Z,"218 km W of Longyearbyen, Svalbard and Jan Mayen",earthquake,7.9,1.8,0.04,61,reviewed,us,us
 2022-07-18T18:25:01.700Z,38.8376656,-122.8233337,1.81,1.16,md,24,62,0.009536,0.02,nc,nc73760321,2022-07-18T18:52:13.191Z,"9km WNW of Cobb, CA",earthquake,0.2,0.4,0.09,4,automatic,nc,nc
