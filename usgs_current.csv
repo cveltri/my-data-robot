@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-19T21:41:15.740Z,33.879,-116.5111667,11.07,0.94,ml,24,77,0.06384,0.18,ci,ci40066471,2022-07-19T21:44:54.191Z,"4km SE of Garnet, CA",earthquake,0.33,0.52,0.195,23,automatic,ci,ci
 2022-07-19T21:22:27.993Z,61.696,-148.1236,22.1,2.1,ml,,,,0.18,ak,ak02297449b6,2022-07-19T21:25:56.396Z,"21 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-19T21:21:23.530Z,37.5390015,-118.8291702,4.51,1.71,md,17,208,0.05094,0.03,nc,nc73760786,2022-07-19T21:33:10.571Z,"13km W of Toms Place, CA",earthquake,0.81,0.71,0.12,17,automatic,nc,nc
 2022-07-19T21:21:01.890Z,38.7924995,-122.7666702,4.9,0.36,md,8,89,0.009767,0.03,nc,nc73760781,2022-07-19T21:29:10.724Z,"2km NNW of The Geysers, CA",earthquake,0.94,1.47,,1,automatic,nc,nc
+2022-07-19T21:14:49.933Z,7.3196,127.0195,10,4.5,mb,41,115,1.45,1.16,us,us7000hrwx,2022-07-19T21:46:21.040Z,"49 km E of Santiago, Philippines",earthquake,9.1,1.9,0.088,38,reviewed,us,us
 2022-07-19T21:13:53.929Z,60.9826,-147.0911,21.5,2.6,ml,,,,0.36,ak,ak0229742exs,2022-07-19T21:15:46.964Z,"25 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-19T21:06:42.130Z,32.776,-115.2426667,11.92,1.84,ml,16,149,0.1744,0.19,ci,ci40066463,2022-07-19T21:10:16.478Z,"13km ESE of Holtville, CA",earthquake,0.74,0.95,0.138,24,automatic,ci,ci
 2022-07-19T21:00:10.090Z,36.7823334,-121.2563324,11.24,1.52,md,10,203,0.077,0.1,nc,nc73760776,2022-07-19T21:32:14.567Z,"6km E of Tres Pinos, CA",earthquake,1.03,1.85,0.09,9,automatic,nc,nc
