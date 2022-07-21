@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-21T07:39:10.400Z,34.9523333,-118.6116667,7.29,1.72,ml,40,39,0.06156,0.23,ci,ci40067135,2022-07-21T07:42:50.993Z,"20km N of Neenach, CA",earthquake,0.3,1.48,0.229,28,automatic,ci,ci
-2022-07-21T07:24:51.450Z,38.3256683,-123.0051651,14.62,1.56,md,7,211,0.1359,0.03,nc,nc73761186,2022-07-21T07:34:09.843Z,"4km ESE of Bodega Bay, CA",earthquake,1.81,0.64,0.28,6,automatic,nc,nc
+2022-07-21T07:46:15.500Z,19.4913330078125,-155.661834716797,0.280000001192093,2,ml,42,68,,0.25999999,hv,hv73082842,2022-07-21T07:51:48.150Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,1.13999999,3.64,11,automatic,hv,hv
+2022-07-21T07:39:10.400Z,34.9523333,-118.6116667,7.29,1.72,ml,40,39,0.06156,0.23,ci,ci40067135,2022-07-21T07:50:02.360Z,"20km N of Neenach, CA",earthquake,0.3,1.48,0.229,28,automatic,ci,ci
+2022-07-21T07:36:16.115Z,31.6397,-104.3956,5,3.1,ml,28,101,0.094,0.23,us,us7000hsc1,2022-07-21T07:49:24.040Z,"59 km S of Whites City, New Mexico",earthquake,0.9,1.7,0.049,84,reviewed,us,us
+2022-07-21T07:24:51.450Z,38.3256683,-123.0051651,14.62,1.56,md,7,211,0.1359,0.03,nc,nc73761186,2022-07-21T07:49:16.939Z,"4km ESE of Bodega Bay, CA",earthquake,1.81,0.64,0.28,6,automatic,nc,nc
 2022-07-21T07:21:15.430Z,38.8171654,-122.8249969,2.31,0.85,md,14,71,0.008906,0.02,nc,nc73761181,2022-07-21T07:38:16.865Z,"7km NW of The Geysers, CA",earthquake,0.29,0.83,,1,automatic,nc,nc
 2022-07-21T07:19:15.980Z,33.6353333,-116.6776667,13.98,0.42,ml,13,101,0.06903,0.05,ci,ci40067127,2022-07-21T07:22:53.868Z,"9km N of Anza, CA",earthquake,0.19,0.35,0.136,9,automatic,ci,ci
 2022-07-21T07:11:08.010Z,19.5053329467773,-155.568496704102,1.37999999523163,1.82,ml,6,123,,0.140000001,hv,hv73082757,2022-07-21T07:16:39.300Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.86,1.51999998,4,4,automatic,hv,hv
