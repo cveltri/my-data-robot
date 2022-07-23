@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-23T14:42:53.938Z,58.3914,-155.8417,31.5,0.8,ml,,,,0.6,ak,ak0229dm7zg1,2022-07-23T14:44:30.432Z,"58 km SE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-07-23T14:40:33.680Z,33.7443333,-116.7318333,9.32,0.64,ml,22,138,0.03443,0.25,ci,ci40068375,2022-07-23T14:44:07.171Z,"1km WNW of Idyllwild, CA",earthquake,0.62,0.9,0.097,16,automatic,ci,ci
 2022-07-23T14:25:10.641Z,62.292,-150.1473,0,1.5,ml,,,,0.55,ak,ak0229dm48xk,2022-07-23T14:27:01.591Z,"4 km SSW of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-23T14:13:14.549Z,38.1757,-117.7959,8.8,0.9,ml,11,191.47,0.121,0.168,nn,nn00843493,2022-07-23T14:17:06.098Z,"36 km SE of Mina, Nevada",earthquake,,1,0.15,7,automatic,nn,nn
 2022-07-23T14:04:10.235Z,38.1651,-117.8086,8.3,1.1,ml,12,188.46,0.118,0.1421,nn,nn00843492,2022-07-23T14:07:46.858Z,"36 km SE of Mina, Nevada",earthquake,,0.8,0.64,6,automatic,nn,nn
 2022-07-23T14:01:00.143Z,61.4602,-146.6389,29,1.1,ml,,,,0.43,ak,ak0229dlz2xq,2022-07-23T14:02:28.709Z,"39 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-23T13:58:35.050Z,19.1553325653076,-155.497329711914,31.9899997711182,1.75999999,md,36,153,,0.140000001,hv,hv73085322,2022-07-23T14:01:41.190Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.78,1.22000003,0.75,7,automatic,hv,hv
-2022-07-23T13:18:39.170Z,36.5834999,-121.135498,11.3,2.02,md,19,126,0.04186,0.14,nc,nc73761981,2022-07-23T13:25:12.041Z,"6km N of Pinnacles, CA",earthquake,0.4,1.15,0.17,18,automatic,nc,nc
+2022-07-23T13:18:39.170Z,36.5834999,-121.135498,11.3,2.02,md,19,126,0.04186,0.14,nc,nc73761981,2022-07-23T14:41:16.477Z,"6km N of Pinnacles, CA",earthquake,0.4,1.15,0.17,18,automatic,nc,nc
 2022-07-23T13:08:00.937Z,38.7112,-116.1093,0,1.3,ml,9,154.82,1.414,0.2007,nn,nn00843491,2022-07-23T13:13:45.053Z,"89 km S of Eureka, Nevada",earthquake,,8.6,0.13,3,automatic,nn,nn
 2022-07-23T13:04:54.400Z,18.5903,-67.6106,5,4.1,md,27,158,0.5143,0.81,pr,pr2022204005,2022-07-23T14:16:16.853Z,"47 km NW of Rincón, Puerto Rico",earthquake,2.48,1.62,0.16,22,reviewed,pr,pr
 2022-07-23T13:02:35.710Z,33.81,-117.2251667,0.65,0.66,ml,13,71,0.0541,0.36,ci,ci40068367,2022-07-23T13:06:12.579Z,"3km N of Perris, CA",earthquake,0.63,31.61,0.148,16,automatic,ci,ci
